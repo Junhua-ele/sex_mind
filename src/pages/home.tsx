@@ -4,7 +4,6 @@ import { useTranslation } from 'react-i18next';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { Github } from "lucide-react";
 import { 
   Brain, 
   Clock, 
@@ -94,20 +93,8 @@ export default function Home() {
             GitHub
           </a>
         </Button> */}
-        {/* GitHub 链接和语言切换按钮 */}
-              <div className="flex items-center gap-2">
-                <Button variant="ghost" size="sm" asChild>
-                  <a 
-                    href="https://github.com/banlanzs/Sexual-Repression-Calculator" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="flex items-center"
-                  >
-                    <Github className="w-4 h-4" />
-                  </a>
-                </Button>
-                <LanguageSwitcher />
-              </div>
+        {/* 语言切换按钮 */}
+              <LanguageSwitcher />
       </div>
     </SheetContent>
   </Sheet>
@@ -132,20 +119,8 @@ export default function Home() {
                   <span className="text-[10px] sm:text-sm">{t('navigation.history')}</span>
                 </Link>
               </Button>
-              {/* GitHub 链接和语言切换按钮 */}
-              <div className="flex items-center gap-2">
-                <Button variant="ghost" size="sm" asChild>
-                  <a 
-                    href="https://github.com/banlanzs/Sexual-Repression-Calculator" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="flex items-center"
-                  >
-                    <Github className="w-4 h-4" />
-                  </a>
-                </Button>
-                <LanguageSwitcher />
-              </div>
+              {/* 语言切换按钮 */}
+              <LanguageSwitcher />
             </div>
           </div>
         </nav>
