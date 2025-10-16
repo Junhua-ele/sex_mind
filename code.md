@@ -111,6 +111,48 @@ If you need more security:
 
 ---
 
+## Vercel Deployment
+
+### Configuration File
+
+A `vercel.json` file has been created to properly handle client-side routing on Vercel.
+
+**Key Configuration:**
+- All routes are rewritten to `/index.html` for React Router to handle
+- Security headers included (X-Content-Type-Options, X-Frame-Options, X-XSS-Protection)
+- Static asset caching enabled for optimal performance
+
+### Deployment Steps
+
+1. **Connect to Vercel:**
+   - Push code to GitHub
+   - Import project in Vercel Dashboard
+   - Connect to your GitHub repository
+
+2. **Build Settings:**
+   - **Build Command:** `npm run build:vercel`
+   - **Output Directory:** `dist`
+   - **Install Command:** `npm install --legacy-peer-deps`
+
+3. **Deploy:**
+   - Click "Deploy"
+   - Wait for build to complete
+   - Access your deployed application
+
+### Troubleshooting
+
+**404 Error on Page Refresh:**
+- Ensure `vercel.json` is present in root directory
+- Verify rewrites configuration points to `/index.html`
+- Check build output directory is set to `dist`
+
+**Build Fails:**
+- Make sure to use `--legacy-peer-deps` in install command
+- Verify Node.js version is >= 22.0.0
+- Check build logs for specific errors
+
+---
+
 **Last Updated:** 2025-01-16
 **Generated Password:** `SRI2025@SecureAccess`
 **Security Level:** Basic (suitable for access control, not sensitive data protection)
