@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -30,83 +30,8 @@ import LanguageSwitcher from '@/components/common/language-switcher'; // 导入�
 export default function Home() {
   const { t, i18n } = useTranslation();
 
-  //==============================================//
-  // 添加非盈利声明弹窗状态
-  const [showNonProfitModal, setShowNonProfitModal] = useState(false);
-
-  useEffect(() => {
-    // 检查用户是否已经确认过非盈利声明
-    const hasConfirmed = localStorage.getItem('nonProfitConfirmed');
-    if (!hasConfirmed) {
-      // 延迟显示弹窗，避免页面加载时立即弹出
-      const timer = setTimeout(() => {
-        setShowNonProfitModal(true);
-      // 阻止页面滚动
-        document.body.style.overflow = 'hidden';
-      }, 500);
-      
-      return () => clearTimeout(timer);
-    }
-  }, []);
-
-  const handleConfirm = () => {
-    // 将确认状态保存到本地存储
-    localStorage.setItem('nonProfitConfirmed', 'true');
-    setShowNonProfitModal(false);
-    // 恢复页面滚动
-    document.body.style.overflow = 'auto';
-  };
-
-
-  //===================================================================//
   return (
     <div className="min-h-screen bg-gradient-to-br from-psychology-calm via-white to-psychology-warm">
-
-      {/* ////////////////////////////////////////////////// */}
-      {/* 非盈利声明弹窗 */}
-      {showNonProfitModal && (
-        <div className="fixed inset-0 bg-black/70 flex items-center justify-center z-50 p-4">
-          <div className="bg-white rounded-xl max-w-md w-full p-6 shadow-2xl">
-            <div className="text-center mb-6">
-              <Shield className="w-16 h-16 text-psychology-primary mx-auto mb-4" />
-              <h2 className="text-2xl font-bold text-psychology-primary mb-2">
-                {t('home.nonProfitModal.title')}
-              </h2>
-              <p className="text-gray-600 mb-4 text-lg">
-                {t('home.nonProfitModal.description')}
-                <span className="text-red-600 font-bold">
-                  {t('home.nonProfitModal.warning')}
-                </span>
-              </p>
-              <div className="bg-psychology-primary/5 p-4 rounded-lg mb-4 text-left">
-                <div className="flex items-start gap-2 mb-2">
-                  <CheckCircle className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <span className="text-sm">{t('home.nonProfitModal.benefit1')}</span>
-                </div>
-                <div className="flex items-start gap-2 mb-2">
-                  <CheckCircle className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <span className="text-sm">{t('home.nonProfitModal.benefit2')}</span>
-                </div>
-                <div className="flex items-start gap-2">
-                  <CheckCircle className="w-5 h-5 text-green-500 mt-0.5 flex-shrink-0" />
-                  <span className="text-sm">{t('home.nonProfitModal.benefit3')}</span>
-                </div>
-              </div>
-              <p className="text-base text-muted-foreground mb-4">
-                {t('home.nonProfitModal.footer')}
-              </p>
-            </div>
-            <Button 
-              onClick={handleConfirm}
-              className="w-full bg-green-600 hover:bg-green-700 text-white py-3 text-base"
-            >
-              <CheckCircle className="w-4 h-4 inline mr-1" />
-              {t('home.nonProfitModal.confirm')}
-            </Button>
-          </div>
-        </div>
-      )}
-{/* /////////////////////////////////////////////////////////////////////////// */}
 
       {/* 背景装饰 */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
