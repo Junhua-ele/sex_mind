@@ -14,7 +14,7 @@ const Login: React.FC = () => {
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const { login } = useAuth();
+  const { login, userType } = useAuth();
   const navigate = useNavigate();
   const { t } = useTranslation();
 
@@ -26,7 +26,15 @@ const Login: React.FC = () => {
     try {
       const success = await login(password);
       if (success) {
-        navigate('/');
+        // Get the updated user type from sessionStorage (since state update is async)
+        const type = sessionStorage.getItem('user_type');
+
+        // Redirect based on user type
+        if (type === 'rebirth') {
+          navigate('/rebirth');
+        } else {
+          navigate('/');
+        }
       } else {
         setError(t('login.error') || 'Incorrect password. Please try again.');
         setPassword('');

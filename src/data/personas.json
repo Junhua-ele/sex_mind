@@ -1,0 +1,3352 @@
+[
+  {
+    "id": "persona001",
+    "title": "Rites Guardian of Zhou",
+    "era": "c. 1000 BCE",
+    "region": "East Asia",
+    "culture": "Zhou Dynasty",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "INFJ",
+      "INTJ",
+      "ENFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "ritual sense",
+      "strategic mind",
+      "community duty",
+      "foresight",
+      "discipline"
+    ],
+    "storyTemplate": "You maintained ritual order across allied states, kept ceremonial archives aligned across allied clans while choreographing alliances with patience.",
+    "evaluation": {
+      "strengths": "Translating complex knowledge for communities while choreographing alliances with patience",
+      "weaknesses": "Over-analysing nuance instead of acting when bureaucracy grows dense",
+      "romance": "Prefers partners who treasure oaths and learning",
+      "wealth": "Collects steady stipends and temple gifts",
+      "advice": "Invite spontaneity into formal plans; turn your theories into daily experiments"
+    },
+    "visualCue": "jade tally, bronze drum, ancestral altar",
+    "rarity": 2,
+    "hooks": [
+      "Map your purpose-driven habits",
+      "Compare your leadership rituals with teammates"
+    ],
+    "balanceNote": "Wood keeps vision agile, Earth grounds ceremonial duty.",
+    "titleZh": "周朝礼仪守护者",
+    "eraZh": "公元前1000年",
+    "regionZh": "东亚",
+    "cultureZh": "周朝",
+    "roleZh": "学者",
+    "traitsZh": [
+      "礼仪感",
+      "战略思维",
+      "社区责任",
+      "远见",
+      "纪律"
+    ],
+    "storyTemplateZh": "你维护着联盟各国的礼仪秩序,保存着联盟宗族的仪式档案,以耐心编排着联盟关系。",
+    "evaluationZh": {
+      "strengths": "为社群转译复杂知识,以耐心编排联盟关系",
+      "weaknesses": "过度分析细微差别而非行动,当官僚体系变得密集时",
+      "romance": "偏爱珍视誓言和学习的伴侣",
+      "wealth": "收集稳定的俸禄和寺庙礼物",
+      "advice": "邀请自发性进入正式计划;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "玉符,青铜鼓,祖先祭坛",
+    "hooksZh": [
+      "绘制你的目标驱动习惯",
+      "与队友比较你的领导仪式"
+    ],
+    "balanceNoteZh": "木保持远见灵活,土奠定仪式职责。"
+  },
+  {
+    "id": "persona002",
+    "title": "Yunmeng Marsh Physician",
+    "era": "c. 200 BCE",
+    "region": "East Asia",
+    "culture": "Qin-Han Frontier",
+    "role": "Healer",
+    "mbtiAffinity": [
+      "ISFJ",
+      "ISFP",
+      "ESFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "gentle listener",
+      "herbal craft",
+      "keen observer",
+      "patient",
+      "protective"
+    ],
+    "storyTemplate": "You served frontier towns along misty wetlands, trekked stilt villages to ease swamp fever and travel wounds by reading faint symptoms hidden under fatigue.",
+    "evaluation": {
+      "strengths": "Soothing others and diagnosing subtle symptoms by reading faint symptoms hidden under fatigue",
+      "weaknesses": "Absorbing emotions until overwhelmed once boundaries blur with patients",
+      "romance": "Cherishes affection expressed through quiet support",
+      "wealth": "Relies on grateful stipends from clans she assists",
+      "advice": "Mark rest days on the calendar before exhaustion calls; schedule restoration before exhaustion hits"
+    },
+    "visualCue": "herbal satchel, reed marsh, traveling clinic",
+    "rarity": 3,
+    "hooks": [
+      "Unlock your healer mode",
+      "Spot how you recharge after caring for others"
+    ],
+    "balanceNote": "Water carries empathy while Metal clarifies diagnosis.",
+    "titleZh": "云梦泽医者",
+    "eraZh": "公元前200年",
+    "regionZh": "东亚",
+    "cultureZh": "秦汉边境",
+    "roleZh": "治疗师",
+    "traitsZh": [
+      "温柔倾听者",
+      "草药手艺",
+      "敏锐观察者",
+      "耐心",
+      "保护"
+    ],
+    "storyTemplateZh": "你服务于雾气弥漫的湿地边境城镇,穿行于高脚村落,通过解读疲劳下隐藏的微弱症状来缓解沼泽热和旅途创伤。",
+    "evaluationZh": {
+      "strengths": "安抚他人并通过解读疲劳下隐藏的微弱症状诊断细微征兆",
+      "weaknesses": "吸收情绪直至不堪重负,一旦与患者的界限模糊",
+      "romance": "珍视通过安静支持表达的情感",
+      "wealth": "依赖她所协助的宗族的感激俸禄",
+      "advice": "在精疲力竭前在日历上标记休息日;在疲劳来袭前安排恢复"
+    },
+    "visualCueZh": "草药包,芦苇沼泽,流动诊所",
+    "hooksZh": [
+      "解锁你的治疗模式",
+      "发现你如何在照顾他人后恢复"
+    ],
+    "balanceNoteZh": "水承载同理心,金澄清诊断。"
+  },
+  {
+    "id": "persona003",
+    "title": "Tang Roadside Poet-Monk",
+    "era": "750 CE",
+    "region": "East Asia",
+    "culture": "Tang Empire",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "INFP",
+      "ENFP",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "intuitive artist",
+      "wanderer",
+      "empathetic",
+      "lyrical",
+      "imaginative"
+    ],
+    "storyTemplate": "You journeyed along imperial post roads, wove verses between courier posts to soothe homesick soldiers when turning turmoil into resonant stories.",
+    "evaluation": {
+      "strengths": "Igniting belief and offering spiritual insight when turning turmoil into resonant stories",
+      "weaknesses": "Drifting when structure is needed, whenever restless feet abandon half-planned stays",
+      "romance": "Falls for fellow travellers who share sunset reflections",
+      "wealth": "Sustains the journey on monastery bowls and patron gifts",
+      "advice": "Keep a returning waypoint for your heart between voyages; anchor your visions with grounding rituals"
+    },
+    "visualCue": "poet staff, lantern-lit relay, silk banners",
+    "rarity": 4,
+    "hooks": [
+      "Trace the next waypoint of your soul quest",
+      "Gift a friend with your poetic alter ego"
+    ],
+    "balanceNote": "Fire inspires audiences, Wood renews imagination.",
+    "titleZh": "唐朝路边诗僧",
+    "eraZh": "公元750年",
+    "regionZh": "东亚",
+    "cultureZh": "唐帝国",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "直觉艺术家",
+      "流浪者",
+      "同理心",
+      "抒情",
+      "想象力"
+    ],
+    "storyTemplateZh": "你沿着帝国驿道旅行,在驿站间编织诗句,在将动荡转化为共鸣故事时安抚思乡的士兵。",
+    "evaluationZh": {
+      "strengths": "点燃信念并在将动荡转化为共鸣故事时提供精神洞察",
+      "weaknesses": "当需要结构时漂流,当不安的脚步放弃半计划的停留时",
+      "romance": "爱上分享日落沉思的同行旅人",
+      "wealth": "靠寺院钵盂和赞助人礼物维持旅程",
+      "advice": "在旅途之间为你的心保留一个归途;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "诗杖,灯笼驿站,丝绸旗帜",
+    "hooksZh": [
+      "追踪你灵魂探索的下一个路标",
+      "用你的诗意化身赠予朋友"
+    ],
+    "balanceNoteZh": "火激励观众,木更新想象力。"
+  },
+  {
+    "id": "persona004",
+    "title": "Song Grand Canal Marshal",
+    "era": "1120 CE",
+    "region": "East Asia",
+    "culture": "Northern Song",
+    "role": "Administrator",
+    "mbtiAffinity": [
+      "ENTJ",
+      "ESTJ",
+      "INTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "organiser",
+      "logistics visionary",
+      "commercial tactician",
+      "decisive",
+      "structured"
+    ],
+    "storyTemplate": "You orchestrated Grand Canal commerce, built convoy schedules that married northern needs with southern supply by aligning contractors, guilds, and officials under one blueprint.",
+    "evaluation": {
+      "strengths": "Coordinating systems and directing resources by aligning contractors, guilds, and officials under one blueprint",
+      "weaknesses": "Pushing teams without emotional check-ins if empathy is lost amid timetables",
+      "romance": "Romance blooms through shared missions and transparency",
+      "wealth": "Grows through strategic reserves and merchant alliances",
+      "advice": "Hold listening councils before printing the next decree; invite feedback before decisions harden"
+    },
+    "visualCue": "canal locks, grain barges, route ledgers",
+    "rarity": 2,
+    "hooks": [
+      "Audit your modern operations instincts",
+      "Practice relieving pressure without losing pace"
+    ],
+    "balanceNote": "Metal enforces logistics, Water adapts to trade currents.",
+    "titleZh": "宋朝大运河总督",
+    "eraZh": "公元1120年",
+    "regionZh": "东亚",
+    "cultureZh": "北宋",
+    "roleZh": "行政官",
+    "traitsZh": [
+      "组织者",
+      "物流远见者",
+      "商业战术家",
+      "果断",
+      "结构化"
+    ],
+    "storyTemplateZh": "你协调大运河商业,建立车队时刻表,通过将承包商、行会和官员统一在一个蓝图下,使北方需求与南方供应相匹配。",
+    "evaluationZh": {
+      "strengths": "协调系统并通过将承包商、行会和官员统一在一个蓝图下指挥资源",
+      "weaknesses": "在时间表中失去同理心时,推动团队而不进行情感检查",
+      "romance": "通过共同使命和透明度绽放浪漫",
+      "wealth": "通过战略储备和商人联盟增长",
+      "advice": "在打印下一个法令前举行倾听会议;在决策固化前邀请反馈"
+    },
+    "visualCueZh": "运河船闸,粮船,路线账本",
+    "hooksZh": [
+      "审核你的现代运营本能",
+      "练习在不失速度的情况下缓解压力"
+    ],
+    "balanceNoteZh": "金强制物流,水适应贸易潮流。"
+  },
+  {
+    "id": "persona005",
+    "title": "Heian Court Star Reader",
+    "era": "900 CE",
+    "region": "East Asia",
+    "culture": "Heian Court",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "INTP",
+      "ENTP",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "curiosity",
+      "detailed observer",
+      "dreamer",
+      "methodical",
+      "introspective"
+    ],
+    "storyTemplate": "You observed Kyoto night skies for auspicious signs, drafted almanacs so nobles timed harvests and festivals with care when converting intricate data into calm guidance.",
+    "evaluation": {
+      "strengths": "Translating complex knowledge for communities when converting intricate data into calm guidance",
+      "weaknesses": "Over-analysing nuance instead of acting once theory distracts from immediate needs",
+      "romance": "Forms bonds through long, thoughtful conversations",
+      "wealth": "Is supported by stipends and aristocratic patrons",
+      "advice": "Host more stargazing salons to discuss practical action; turn your theories into daily experiments"
+    },
+    "visualCue": "star charts, lacquer telescope, moonlit veranda",
+    "rarity": 3,
+    "hooks": [
+      "Connect celestial patterns to your present choices",
+      "Apply curiosity to a real dataset today"
+    ],
+    "balanceNote": "Metal structures data and Water fuels insight.",
+    "titleZh": "平安宫廷观星者",
+    "eraZh": "公元900年",
+    "regionZh": "东亚",
+    "cultureZh": "平安宫廷",
+    "roleZh": "学者",
+    "traitsZh": [
+      "好奇心",
+      "细节观察者",
+      "梦想家",
+      "有条理",
+      "内省"
+    ],
+    "storyTemplateZh": "你观察京都夜空寻找吉兆,起草历书让贵族谨慎安排收获和节日,当将复杂数据转化为平静指导时。",
+    "evaluationZh": {
+      "strengths": "在将复杂数据转化为平静指导时为社群转译复杂知识",
+      "weaknesses": "一旦理论从眼前需求分散注意力,过度分析细微差别而非行动",
+      "romance": "通过长时间深思熟虑的对话建立联系",
+      "wealth": "得到俸禄和贵族赞助人的支持",
+      "advice": "举办更多观星沙龙讨论实际行动;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "星图,漆望远镜,月光走廊",
+    "hooksZh": [
+      "将天体模式与你当前的选择联系起来",
+      "将好奇心应用于今天的真实数据集"
+    ],
+    "balanceNoteZh": "金构建数据,水激发洞察力。"
+  },
+  {
+    "id": "persona006",
+    "title": "Ming Littoral Tactician",
+    "era": "1550 CE",
+    "region": "East Asia",
+    "culture": "Ming Littoral",
+    "role": "Warrior",
+    "mbtiAffinity": [
+      "ESTP",
+      "ENTJ",
+      "ISTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "bold commander",
+      "fast strategist",
+      "protective",
+      "hands-on",
+      "loyal"
+    ],
+    "storyTemplate": "You protected maritime towns from sudden raids, coordinated fire signals and patrol fleets to deter piracy when danger demands decisive improvisation.",
+    "evaluation": {
+      "strengths": "Leading under pressure and executing bold tactics when danger demands decisive improvisation",
+      "weaknesses": "Charging forward before listening if irritation sparks clashes with tradition-bound superiors",
+      "romance": "Adores comrades who stand shoulder to shoulder",
+      "wealth": "Draws rewards from military honours and trading partners",
+      "advice": "Schedule unarmoured conversations with confidants; schedule time to stand down with trusted allies"
+    },
+    "visualCue": "command drum, coastal fort, signal flag",
+    "rarity": 3,
+    "hooks": [
+      "Prime your emergency playbook",
+      "Notice how you downshift after crisis duty"
+    ],
+    "balanceNote": "Fire delivers decisive courage, Metal guides tactics.",
+    "titleZh": "明朝沿海战术家",
+    "eraZh": "公元1550年",
+    "regionZh": "东亚",
+    "cultureZh": "明朝沿海",
+    "roleZh": "战士",
+    "traitsZh": [
+      "勇敢指挥官",
+      "快速战略家",
+      "保护",
+      "实践",
+      "忠诚"
+    ],
+    "storyTemplateZh": "你保护海港城镇免受突然袭击,协调火信号和巡逻舰队以威慑海盗,当危险需要果断即兴发挥时。",
+    "evaluationZh": {
+      "strengths": "在压力下领导并在危险需要果断即兴发挥时执行大胆战术",
+      "weaknesses": "如果激怒引发与传统上司的冲突,在倾听前冲锋",
+      "romance": "崇拜肩并肩站立的战友",
+      "wealth": "从军事荣誉和贸易伙伴获得奖励",
+      "advice": "安排与知己进行不穿盔甲的对话;安排时间与值得信赖的盟友一起放松"
+    },
+    "visualCueZh": "指挥鼓,沿海堡垒,信号旗",
+    "hooksZh": [
+      "准备你的应急剧本",
+      "注意危机职责后如何减速"
+    ],
+    "balanceNoteZh": "火传递果断勇气,金指导战术。"
+  },
+  {
+    "id": "persona007",
+    "title": "Magadha Debate Chancellor",
+    "era": "c. 200 BCE",
+    "region": "South Asia",
+    "culture": "Magadha Monasteries",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "INTJ",
+      "INFJ",
+      "ENTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "logical",
+      "eloquent",
+      "spiritual",
+      "planner",
+      "inclusive"
+    ],
+    "storyTemplate": "You chaired monastic debates shaping doctrine, moderated monastic councils to reconcile rival schools by distilling divergent texts into shared doctrine.",
+    "evaluation": {
+      "strengths": "Translating complex knowledge for communities by distilling divergent texts into shared doctrine",
+      "weaknesses": "Over-analysing nuance instead of acting when impatience surfaces toward hesitant students",
+      "romance": "Bond grows with thinkers who value nuance",
+      "wealth": "Rests on monastery stipends and royal libraries",
+      "advice": "Season your arguments with everyday warmth; turn your theories into daily experiments"
+    },
+    "visualCue": "debate hall, palm-leaf texts, terraced courtyard",
+    "rarity": 3,
+    "hooks": [
+      "Stress-test your debate compass",
+      "Mix conviction with openness in your next meeting"
+    ],
+    "balanceNote": "Earth anchors logic, Fire supports persuasive speech.",
+    "titleZh": "摩揭陀辩论大臣",
+    "eraZh": "公元前200年",
+    "regionZh": "南亚",
+    "cultureZh": "摩揭陀寺院",
+    "roleZh": "学者",
+    "traitsZh": [
+      "逻辑",
+      "雄辩",
+      "精神",
+      "规划者",
+      "包容"
+    ],
+    "storyTemplateZh": "你主持形成教义的寺院辩论,调解寺院委员会以通过将不同文本提炼为共享教义来调和对立学派。",
+    "evaluationZh": {
+      "strengths": "通过将不同文本提炼为共享教义为社群转译复杂知识",
+      "weaknesses": "当对犹豫学生的不耐烦浮现时,过度分析细微差别而非行动",
+      "romance": "与重视细微差别的思想家建立联系",
+      "wealth": "依靠寺院俸禄和皇家图书馆",
+      "advice": "用日常温暖调和你的论点;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "辩论厅,棕榈叶文本,梯田庭院",
+    "hooksZh": [
+      "压力测试你的辩论罗盘",
+      "在下次会议中将信念与开放性结合"
+    ],
+    "balanceNoteZh": "土锚定逻辑,火支持有说服力的演讲。"
+  },
+  {
+    "id": "persona008",
+    "title": "Chola Bronze Atelier Master",
+    "era": "1050 CE",
+    "region": "South Asia",
+    "culture": "Chola Empire",
+    "role": "Artisan",
+    "mbtiAffinity": [
+      "ISTP",
+      "ISFP",
+      "ESTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "craft-driven",
+      "aesthetic eye",
+      "precise",
+      "deliberate",
+      "enterprising"
+    ],
+    "storyTemplate": "You supplied temples and ports with radiant bronzes, refined lost-wax molds that made harbours famed for devotion through patient polish and structural insight.",
+    "evaluation": {
+      "strengths": "Crafting durable objects with artistic flair through patient polish and structural insight",
+      "weaknesses": "Losing momentum in pursuit of perfection when perfection delays delivery",
+      "romance": "Communicates love through shared studio time",
+      "wealth": "Grows by balancing guild orders and export demand",
+      "advice": "Narrate the meaning behind your creations more often; tell the story behind your craft to broaden impact"
+    },
+    "visualCue": "casting furnace, temple quay, polished statue",
+    "rarity": 2,
+    "hooks": [
+      "Spot your maker superpower",
+      "Balance craftsmanship with sustainable pace"
+    ],
+    "balanceNote": "Metal sculpts precision, Fire breathes artistic life.",
+    "titleZh": "朱罗青铜工坊大师",
+    "eraZh": "公元1050年",
+    "regionZh": "南亚",
+    "cultureZh": "朱罗帝国",
+    "roleZh": "工匠",
+    "traitsZh": [
+      "工艺驱动",
+      "审美眼光",
+      "精确",
+      "深思熟虑",
+      "进取"
+    ],
+    "storyTemplateZh": "你为寺庙和港口提供光芒四射的青铜器,通过耐心打磨和结构洞察力完善失蜡模,使港口因虔诚而闻名。",
+    "evaluationZh": {
+      "strengths": "通过耐心打磨和结构洞察力用艺术天赋制作耐用物品",
+      "weaknesses": "当完美延迟交付时,在追求完美中失去动力",
+      "romance": "通过共享工作室时间传达爱意",
+      "wealth": "通过平衡行会订单和出口需求增长",
+      "advice": "更频繁地叙述你创作背后的意义;讲述你工艺背后的故事以扩大影响"
+    },
+    "visualCueZh": "铸造炉,寺庙码头,抛光雕像",
+    "hooksZh": [
+      "发现你的制作者超能力",
+      "平衡工艺与可持续节奏"
+    ],
+    "balanceNoteZh": "金雕刻精度,火注入艺术生命。"
+  },
+  {
+    "id": "persona009",
+    "title": "Ganges River Ritualist",
+    "era": "600 CE",
+    "region": "South Asia",
+    "culture": "River Pilgrimage",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "ENFP",
+      "INFJ",
+      "ISFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "empath",
+      "keeper of rites",
+      "travelling guide",
+      "story weaver",
+      "gentle"
+    ],
+    "storyTemplate": "You guided ceremonies beside sacred waters, sang hymns beside floating lamps to comfort pilgrims when channeling collective emotion into healing.",
+    "evaluation": {
+      "strengths": "Igniting belief and offering spiritual insight when channeling collective emotion into healing",
+      "weaknesses": "Drifting when structure is needed as borrowed grief erodes personal reserves",
+      "romance": "Yearns for quiet souls who honour inner journeys",
+      "wealth": "Accepts modest offerings that fund further pilgrimages",
+      "advice": "Reset emotional boundaries after each vigil; anchor your visions with grounding rituals"
+    },
+    "visualCue": "river lamps, ritual bells, woven canopy",
+    "rarity": 4,
+    "hooks": [
+      "Experience your empathic channel",
+      "Learn to guard your energy between clients"
+    ],
+    "balanceNote": "Water heals emotional tides, Wood fosters compassion.",
+    "titleZh": "恒河仪式师",
+    "eraZh": "公元600年",
+    "regionZh": "南亚",
+    "cultureZh": "河流朝圣",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "同理心",
+      "仪式守护者",
+      "旅行向导",
+      "故事编织者",
+      "温柔"
+    ],
+    "storyTemplateZh": "你在圣水旁引导仪式,在漂浮的灯旁吟唱赞美诗,在将集体情感引导为治疗时安慰朝圣者。",
+    "evaluationZh": {
+      "strengths": "在将集体情感引导为治疗时点燃信念并提供精神洞察",
+      "weaknesses": "当借来的悲伤侵蚀个人储备时,在需要结构时漂流",
+      "romance": "渴望尊重内心旅程的安静灵魂",
+      "wealth": "接受资助进一步朝圣的微薄供品",
+      "advice": "在每次守夜后重置情感界限;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "河灯,仪式铃,编织天篷",
+    "hooksZh": [
+      "体验你的同理心通道",
+      "学习在客户之间守护你的能量"
+    ],
+    "balanceNoteZh": "水治愈情感浪潮,木培育慈悲。"
+  },
+  {
+    "id": "persona010",
+    "title": "Delhi Court Performance Maestro",
+    "era": "1300 CE",
+    "region": "South Asia",
+    "culture": "Delhi Sultanate",
+    "role": "Artist",
+    "mbtiAffinity": [
+      "ESFP",
+      "ENFP",
+      "ISFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "charismatic",
+      "expressive",
+      "sociable",
+      "stylish",
+      "spontaneous"
+    ],
+    "storyTemplate": "You animated royal gatherings with music and diplomacy, orchestrated music-dance soirees that softened tense councils by reading the room and lifting every voice.",
+    "evaluation": {
+      "strengths": "Energising crowds and expressing emotion by reading the room and lifting every voice",
+      "weaknesses": "Burning out by chasing constant applause when applause becomes a substitute for rest",
+      "romance": "Falls for creative partners who match her fire",
+      "wealth": "Thrives on gala invitations and noble patrons",
+      "advice": "Block time for rehearsal and quiet reflection; weave quiet rehearsal time between festivals"
+    },
+    "visualCue": "inlaid lute, brocade stage, perfumed lanterns",
+    "rarity": 3,
+    "hooks": [
+      "Discover your stage persona",
+      "Balance applause with intentional downtime"
+    ],
+    "balanceNote": "Fire lights charisma, Earth sustains performance rhythm.",
+    "titleZh": "德里宫廷演出大师",
+    "eraZh": "公元1300年",
+    "regionZh": "南亚",
+    "cultureZh": "德里苏丹国",
+    "roleZh": "艺术家",
+    "traitsZh": [
+      "魅力",
+      "表现力",
+      "善交际",
+      "时尚",
+      "自发"
+    ],
+    "storyTemplateZh": "你用音乐和外交为皇家聚会注入活力,通过解读房间并提升每个声音,策划音乐舞蹈晚会以软化紧张的议会。",
+    "evaluationZh": {
+      "strengths": "通过解读房间并提升每个声音来激励人群并表达情感",
+      "weaknesses": "当掌声成为休息的替代品时,追逐不断的掌声而精疲力竭",
+      "romance": "爱上与她的火相匹配的创意伴侣",
+      "wealth": "在盛会邀请和贵族赞助人中茁壮成长",
+      "advice": "在节日之间安排排练和安静反思的时间;在节日之间编织安静的排练时间"
+    },
+    "visualCueZh": "镶嵌琵琶,锦缎舞台,香薰灯笼",
+    "hooksZh": [
+      "发现你的舞台人格",
+      "平衡掌声与有意的停机时间"
+    ],
+    "balanceNoteZh": "火点燃魅力,土维持表演节奏。"
+  },
+  {
+    "id": "persona011",
+    "title": "Ayutthaya Floating-Market Broker",
+    "era": "1650 CE",
+    "region": "Southeast Asia",
+    "culture": "Ayutthaya Kingdom",
+    "role": "Merchant",
+    "mbtiAffinity": [
+      "ENFP",
+      "ENTP",
+      "ESFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "connector",
+      "negotiator",
+      "adaptive",
+      "playful",
+      "multilingual"
+    ],
+    "storyTemplate": "You bargained across floating markets and river piers, linked river ports with caravans delivering spices and ivory while nourishing a web of trusted messengers.",
+    "evaluation": {
+      "strengths": "Spotting opportunity and building networks while nourishing a web of trusted messengers",
+      "weaknesses": "Spreading energy across too many ventures if enthusiasm scatters focus across too many deals",
+      "romance": "Enjoys relationships that flow like tides",
+      "wealth": "Reinvests profits into diverse river ventures",
+      "advice": "Define risk buffers before signing new ledgers; define risk limits before you leap"
+    },
+    "visualCue": "canal boat, spice crates, laughing traders",
+    "rarity": 2,
+    "hooks": [
+      "Gauge your negotiation magnetism",
+      "Design your next adventurous project"
+    ],
+    "balanceNote": "Water flexes with every deal, Metal tallies every coin.",
+    "titleZh": "大城府水上市场经纪人",
+    "eraZh": "公元1650年",
+    "regionZh": "东南亚",
+    "cultureZh": "大城府王国",
+    "roleZh": "商人",
+    "traitsZh": [
+      "连接者",
+      "谈判者",
+      "适应力",
+      "玩乐",
+      "多语言"
+    ],
+    "storyTemplateZh": "你在水上市场和河码头讨价还价,通过滋养可信使者网络,连接河港与运送香料和象牙的商队。",
+    "evaluationZh": {
+      "strengths": "在滋养可信使者网络时发现机会并建立网络",
+      "weaknesses": "如果热情将焦点分散在太多交易中,在太多项目上分散能量",
+      "romance": "享受像潮汐一样流动的关系",
+      "wealth": "将利润再投资于不同的河流企业",
+      "advice": "在签署新账本前定义风险缓冲;在你跳跃前定义风险限制"
+    },
+    "visualCueZh": "运河船,香料箱,欢笑商人",
+    "hooksZh": [
+      "评估你的谈判磁力",
+      "设计你的下一个冒险项目"
+    ],
+    "balanceNoteZh": "水灵活应对每笔交易,金计算每一枚硬币。"
+  },
+  {
+    "id": "persona012",
+    "title": "Srivijaya Monsoon Pilot",
+    "era": "900 CE",
+    "region": "Southeast Asia",
+    "culture": "Srivijaya Maritime Routes",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ENTJ",
+      "ESTP",
+      "INTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "bold explorer",
+      "commanding",
+      "observant",
+      "strategic",
+      "anchored"
+    ],
+    "storyTemplate": "You charted monsoon crossings through coral straits, plotted seasonal currents so fleets sailed safely between islands when decoding sky, swell, and crew mood at once.",
+    "evaluation": {
+      "strengths": "Reading subtle cues in weather and crew morale when decoding sky, swell, and crew mood at once",
+      "weaknesses": "Growing impatient with hesitation once hesitation slows decisive action",
+      "romance": "Shares intense bonds forged during voyages",
+      "wealth": "Earns generous shares from spice convoys",
+      "advice": "Build shore crews to share long-term planning; build shore teams to share the load"
+    },
+    "visualCue": "double-hulled canoe, star compass, storm lantern",
+    "rarity": 3,
+    "hooks": [
+      "Audit your adventure radar",
+      "Practice guiding teams through uncertain surf"
+    ],
+    "balanceNote": "Wood pioneers fresh horizons, Water reads tidal signs.",
+    "titleZh": "室利佛逝季风领航员",
+    "eraZh": "公元900年",
+    "regionZh": "东南亚",
+    "cultureZh": "室利佛逝海上航线",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "勇敢探险家",
+      "指挥",
+      "观察",
+      "战略",
+      "稳定"
+    ],
+    "storyTemplateZh": "你绘制穿越珊瑚海峡的季风航线,在同时解码天空、海浪和船员情绪时,绘制季节性洋流使舰队安全航行于岛屿之间。",
+    "evaluationZh": {
+      "strengths": "在同时解码天空、海浪和船员情绪时,解读天气和船员士气的微妙线索",
+      "weaknesses": "一旦犹豫减缓果断行动,对犹豫变得不耐烦",
+      "romance": "分享在航行中锻造的强烈纽带",
+      "wealth": "从香料车队中赚取丰厚份额",
+      "advice": "建立岸上团队分担长期规划;建立岸上团队分担负担"
+    },
+    "visualCueZh": "双体独木舟,星罗盘,风暴灯笼",
+    "hooksZh": [
+      "审核你的冒险雷达",
+      "练习引导团队穿越不确定的浪潮"
+    ],
+    "balanceNoteZh": "木开拓新视野,水解读潮汐迹象。"
+  },
+  {
+    "id": "persona013",
+    "title": "Angkor Reservoir Architect",
+    "era": "1150 CE",
+    "region": "Southeast Asia",
+    "culture": "Khmer Empire",
+    "role": "Administrator",
+    "mbtiAffinity": [
+      "ISTJ",
+      "INTJ",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "system planner",
+      "measured",
+      "reliable",
+      "thorough",
+      "pragmatic"
+    ],
+    "storyTemplate": "You balanced reservoirs that fed emerald rice fields, balanced barays and spillways to feed emerald terraces through meticulous calculations that protected harvests.",
+    "evaluation": {
+      "strengths": "Coordinating systems and directing resources through meticulous calculations that protected harvests",
+      "weaknesses": "Pushing teams without emotional check-ins when emotional needs vanish under blueprints",
+      "romance": "Prefers partners who value consistency",
+      "wealth": "Draws respect and patronage from royal courts",
+      "advice": "Translate technical goals into human stories; invite feedback before decisions harden"
+    },
+    "visualCue": "causeways, water maps, sandstone towers",
+    "rarity": 2,
+    "hooks": [
+      "Engineer your support systems",
+      "Blend logic with empathy in planning"
+    ],
+    "balanceNote": "Earth stabilises infrastructure, Water keeps flow adaptive.",
+    "titleZh": "吴哥水库建筑师",
+    "eraZh": "公元1150年",
+    "regionZh": "东南亚",
+    "cultureZh": "高棉帝国",
+    "roleZh": "行政官",
+    "traitsZh": [
+      "系统规划者",
+      "克制",
+      "可靠",
+      "彻底",
+      "务实"
+    ],
+    "storyTemplateZh": "你平衡喂养翠绿稻田的水库,通过保护收成的细致计算,平衡蓄水池和溢洪道以喂养翠绿梯田。",
+    "evaluationZh": {
+      "strengths": "通过保护收成的细致计算协调系统并指挥资源",
+      "weaknesses": "当蓝图下情感需求消失时,推动团队而不进行情感检查",
+      "romance": "偏爱重视一致性的伴侣",
+      "wealth": "从皇家宫廷获得尊重和赞助",
+      "advice": "将技术目标转化为人类故事;在决策固化前邀请反馈"
+    },
+    "visualCueZh": "堤道,水图,砂岩塔",
+    "hooksZh": [
+      "设计你的支持系统",
+      "在规划中融合逻辑与同理心"
+    ],
+    "balanceNoteZh": "土稳定基础设施,水保持流动适应性。"
+  },
+  {
+    "id": "persona014",
+    "title": "Malacca Spice Envoy",
+    "era": "1500 CE",
+    "region": "Southeast Asia",
+    "culture": "Malacca Sultanate",
+    "role": "Merchant",
+    "mbtiAffinity": [
+      "ENFP",
+      "ENFJ",
+      "ESFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "affable",
+      "diplomatic",
+      "resourceful",
+      "observant",
+      "responsive"
+    ],
+    "storyTemplate": "You brokered treaties between sultans and blue-water fleets, wove alliances between sultan courts and ocean traders by spotting shared incentives across cultures.",
+    "evaluation": {
+      "strengths": "Spotting opportunity and building networks by spotting shared incentives across cultures",
+      "weaknesses": "Spreading energy across too many ventures when vague promises test her patience",
+      "romance": "Gravitates to worldly partners who love discovery",
+      "wealth": "Diversifies influence across shipping lanes",
+      "advice": "Set personal limits before closing deals; define risk limits before you leap"
+    },
+    "visualCue": "spice vaults, silk pavilion, celestial map",
+    "rarity": 3,
+    "hooks": [
+      "Sharpen your intercultural toolkit",
+      "Design your next win-win negotiation"
+    ],
+    "balanceNote": "Fire wins trust, Metal secures lasting contracts.",
+    "titleZh": "马六甲香料特使",
+    "eraZh": "公元1500年",
+    "regionZh": "东南亚",
+    "cultureZh": "马六甲苏丹国",
+    "roleZh": "商人",
+    "traitsZh": [
+      "和蔼可亲",
+      "外交",
+      "足智多谋",
+      "观察",
+      "响应"
+    ],
+    "storyTemplateZh": "你在苏丹与蓝水舰队之间促成条约,通过发现跨文化的共同激励,在苏丹宫廷和海洋贸易商之间编织联盟。",
+    "evaluationZh": {
+      "strengths": "通过发现跨文化的共同激励发现机会并建立网络",
+      "weaknesses": "当模糊承诺考验她的耐心时,在太多项目上分散能量",
+      "romance": "被热爱发现的世俗伴侣吸引",
+      "wealth": "在航运线上分散影响力",
+      "advice": "在成交前设定个人限制;在你跳跃前定义风险限制"
+    },
+    "visualCueZh": "香料金库,丝绸亭,天体图",
+    "hooksZh": [
+      "磨练你的跨文化工具包",
+      "设计你的下一次双赢谈判"
+    ],
+    "balanceNoteZh": "火赢得信任,金确保持久合同。"
+  },
+  {
+    "id": "persona015",
+    "title": "Babylon Star Oracle",
+    "era": "600 BCE",
+    "region": "West Asia",
+    "culture": "Neo-Babylon",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "INFJ",
+      "INTP",
+      "ENFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "patient",
+      "meticulous",
+      "intuitive",
+      "record keeper",
+      "steadfast"
+    ],
+    "storyTemplate": "You recorded star omens atop terraced temples, charted stellar omens to advise the royal council by turning tiny anomalies into meaningful forecasts.",
+    "evaluation": {
+      "strengths": "Igniting belief and offering spiritual insight by turning tiny anomalies into meaningful forecasts",
+      "weaknesses": "Drifting when structure is needed when dread of misreading eclipses rest",
+      "romance": "Opens slowly to minds that respect silence",
+      "wealth": "Supported by temple archives and royal stipends",
+      "advice": "Share your awe of the sky without duty attached; anchor your visions with grounding rituals"
+    },
+    "visualCue": "clay tablets, ziggurat deck, midnight sky",
+    "rarity": 3,
+    "hooks": [
+      "Spot the trend before it peaks",
+      "Release the weight of constant responsibility"
+    ],
+    "balanceNote": "Metal documents each detail; Water senses the unseen.",
+    "titleZh": "巴比伦星象神谕",
+    "eraZh": "公元前600年",
+    "regionZh": "西亚",
+    "cultureZh": "新巴比伦",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "耐心",
+      "一丝不苟",
+      "直觉",
+      "记录保管者",
+      "坚定"
+    ],
+    "storyTemplateZh": "你在阶梯神庙顶记录星象征兆,通过将微小异常转化为有意义的预测,绘制星象征兆以建议皇家议会。",
+    "evaluationZh": {
+      "strengths": "通过将微小异常转化为有意义的预测点燃信念并提供精神洞察",
+      "weaknesses": "当对误读的恐惧遮蔽休息时,在需要结构时漂流",
+      "romance": "向尊重沉默的心灵缓慢开放",
+      "wealth": "得到神庙档案和皇家俸禄的支持",
+      "advice": "分享你对天空的敬畏而不附加职责;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "泥板,塔庙甲板,午夜天空",
+    "hooksZh": [
+      "在趋势达到顶峰前发现它",
+      "释放持续责任的重量"
+    ],
+    "balanceNoteZh": "金记录每个细节;水感知看不见的东西。"
+  },
+  {
+    "id": "persona016",
+    "title": "Royal Relay Director",
+    "era": "450 BCE",
+    "region": "West Asia",
+    "culture": "Achaemenid Empire",
+    "role": "Administrator",
+    "mbtiAffinity": [
+      "ENTJ",
+      "ESTJ",
+      "INTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "organised",
+      "far-sighted",
+      "assertive",
+      "disciplined",
+      "steady"
+    ],
+    "storyTemplate": "You kept royal couriers flying across desert roads, ensured dispatches sped along desert arteries by choreographing riders and resources across empires.",
+    "evaluation": {
+      "strengths": "Coordinating systems and directing resources by choreographing riders and resources across empires",
+      "weaknesses": "Pushing teams without emotional check-ins whenever impatience eclipses nuance",
+      "romance": "Views intimacy as a pact of mutual ambition",
+      "wealth": "Leverages logistics command into lasting prestige",
+      "advice": "Temper directives with kindness; invite feedback before decisions harden"
+    },
+    "visualCue": "waystation, swift riders, golden standard",
+    "rarity": 2,
+    "hooks": [
+      "Map your operating systems",
+      "Practice compassionate leadership under pressure"
+    ],
+    "balanceNote": "Earth anchors infrastructure; Metal disciplines the relay.",
+    "titleZh": "皇家驿站主管",
+    "eraZh": "公元前450年",
+    "regionZh": "西亚",
+    "cultureZh": "阿契美尼德帝国",
+    "roleZh": "行政官",
+    "traitsZh": [
+      "有组织",
+      "有远见",
+      "果断",
+      "有纪律",
+      "稳定"
+    ],
+    "storyTemplateZh": "你让皇家信使在沙漠道路上飞驰,通过编排骑手和资源跨越帝国,确保派遣沿着沙漠动脉加速。",
+    "evaluationZh": {
+      "strengths": "通过编排骑手和资源跨越帝国协调系统并指挥资源",
+      "weaknesses": "当不耐烦遮蔽细微差别时,推动团队而不进行情感检查",
+      "romance": "将亲密视为相互雄心的契约",
+      "wealth": "利用物流指挥获得持久声望",
+      "advice": "用善意缓和指令;在决策固化前邀请反馈"
+    },
+    "visualCueZh": "驿站,迅捷骑手,金色旗帜",
+    "hooksZh": [
+      "绘制你的操作系统",
+      "在压力下练习富有同情心的领导"
+    ],
+    "balanceNoteZh": "土锚定基础设施;金规范驿站。"
+  },
+  {
+    "id": "persona017",
+    "title": "Carthaginian Harbor Negotiator",
+    "era": "300 BCE",
+    "region": "Mediterranean",
+    "culture": "Carthaginian Horizons",
+    "role": "Merchant",
+    "mbtiAffinity": [
+      "ENTP",
+      "ENFP",
+      "ESTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "risk aware",
+      "quick-witted",
+      "networked",
+      "inventive",
+      "multilingual"
+    ],
+    "storyTemplate": "You negotiated alliances across busy harbours, forged coastal leagues that kept silver and spice moving when volatile markets demand creative terms.",
+    "evaluation": {
+      "strengths": "Spotting opportunity and building networks when volatile markets demand creative terms",
+      "weaknesses": "Spreading energy across too many ventures if thrill-seeking overrides caution",
+      "romance": "Loves flings that sparkle like harbor lights",
+      "wealth": "Scales profits through maritime syndicates",
+      "advice": "Document your bottom line before bargaining; define risk limits before you leap"
+    },
+    "visualCue": "trireme pier, beacon tower, spice stalls",
+    "rarity": 3,
+    "hooks": [
+      "Ignite your commercial daring",
+      "Draft a smarter risk policy"
+    ],
+    "balanceNote": "Water adapts to every port, Fire fuels bold offers.",
+    "titleZh": "迦太基港口谈判家",
+    "eraZh": "公元前300年",
+    "regionZh": "地中海",
+    "cultureZh": "迦太基视野",
+    "roleZh": "商人",
+    "traitsZh": [
+      "风险意识",
+      "机智",
+      "网络化",
+      "创新",
+      "多语言"
+    ],
+    "storyTemplateZh": "你在繁忙港口谈判联盟,当不稳定市场需要创造性条款时,锻造保持白银和香料流动的沿海联盟。",
+    "evaluationZh": {
+      "strengths": "当不稳定市场需要创造性条款时发现机会并建立网络",
+      "weaknesses": "如果寻求刺激压倒谨慎,在太多项目上分散能量",
+      "romance": "喜爱像港口灯光一样闪耀的风流韵事",
+      "wealth": "通过海事辛迪加扩大利润",
+      "advice": "在讨价还价前记录你的底线;在你跳跃前定义风险限制"
+    },
+    "visualCueZh": "三层桨战船码头,灯塔,香料摊",
+    "hooksZh": [
+      "点燃你的商业勇气",
+      "起草更明智的风险政策"
+    ],
+    "balanceNoteZh": "水适应每个港口,火推动大胆报价。"
+  },
+  {
+    "id": "persona018",
+    "title": "Nubian Gold Sentinel",
+    "era": "200 BCE",
+    "region": "North Africa",
+    "culture": "Nubian Lands",
+    "role": "Warrior",
+    "mbtiAffinity": [
+      "ESTJ",
+      "ISTJ",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "loyal",
+      "unyielding",
+      "protective",
+      "strategic",
+      "stoic"
+    ],
+    "storyTemplate": "You guarded royal mines along the upper Nile, guarded desert mines and river caravans while holding defensive lines under pressure.",
+    "evaluation": {
+      "strengths": "Leading under pressure and executing bold tactics while holding defensive lines under pressure",
+      "weaknesses": "Charging forward before listening when high standards harden into inflexibility",
+      "romance": "Commits fiercely to partners who honour vows",
+      "wealth": "Invests in fortified trade posts and family estates",
+      "advice": "Allow trusted allies past your armour; schedule time to stand down with trusted allies"
+    },
+    "visualCue": "rock-cut watchtower, gold ore, shield wall",
+    "rarity": 2,
+    "hooks": [
+      "Strengthen your guardian instinct",
+      "Balance tradition with adaptation"
+    ],
+    "balanceNote": "Metal defends treasure; Earth provides unwavering stance.",
+    "titleZh": "努比亚黄金哨兵",
+    "eraZh": "公元前200年",
+    "regionZh": "北非",
+    "cultureZh": "努比亚地区",
+    "roleZh": "战士",
+    "traitsZh": [
+      "忠诚",
+      "不屈不挠",
+      "保护",
+      "战略",
+      "坚忍"
+    ],
+    "storyTemplateZh": "你守卫上尼罗河沿岸的皇家矿山,在压力下保持防线时守卫沙漠矿山和河流商队。",
+    "evaluationZh": {
+      "strengths": "在压力下保持防线时在压力下领导并执行大胆战术",
+      "weaknesses": "当高标准硬化为不灵活时,在倾听前冲锋",
+      "romance": "坚定承诺尊重誓言的伴侣",
+      "wealth": "投资于防御贸易站和家族庄园",
+      "advice": "允许值得信赖的盟友穿过你的盔甲;安排时间与值得信赖的盟友一起放松"
+    },
+    "visualCueZh": "岩切瞭望塔,金矿,盾墙",
+    "hooksZh": [
+      "加强你的守护本能",
+      "平衡传统与适应"
+    ],
+    "balanceNoteZh": "金守护宝藏;土提供不动摇的立场。"
+  },
+  {
+    "id": "persona019",
+    "title": "Mali Caravan Accountant",
+    "era": "1320 CE",
+    "region": "West Africa",
+    "culture": "Mali Empire",
+    "role": "Merchant",
+    "mbtiAffinity": [
+      "ISTJ",
+      "ESFJ",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "numerate",
+      "grounded",
+      "persistent",
+      "ethical",
+      "moderate"
+    ],
+    "storyTemplate": "You balanced camel caravans carrying salt and gold, tracked salt and gold shares across Sahara convoys by aligning suppliers, couriers, and chiefs in fair ledgers.",
+    "evaluation": {
+      "strengths": "Spotting opportunity and building networks by aligning suppliers, couriers, and chiefs in fair ledgers",
+      "weaknesses": "Spreading energy across too many ventures when new opportunities challenge conservative instincts",
+      "romance": "Courts partners who value steady dedication",
+      "wealth": "Manages reserves that cushion seasonal shocks",
+      "advice": "Absorb fresh ideas from travellers you host; define risk limits before you leap"
+    },
+    "visualCue": "caravan scales, desert skyline, storyteller fire",
+    "rarity": 2,
+    "hooks": [
+      "Tune up your financial blueprint",
+      "Build trust frameworks in your team"
+    ],
+    "balanceNote": "Earth builds steady ledgers; Metal measures every trade.",
+    "titleZh": "马里商队会计",
+    "eraZh": "公元1320年",
+    "regionZh": "西非",
+    "cultureZh": "马里帝国",
+    "roleZh": "商人",
+    "traitsZh": [
+      "计算",
+      "踏实",
+      "坚持",
+      "道德",
+      "温和"
+    ],
+    "storyTemplateZh": "你平衡运送盐和黄金的骆驼商队,通过在公平账本中对齐供应商、信使和酋长,追踪撒哈拉车队的盐和黄金份额。",
+    "evaluationZh": {
+      "strengths": "通过在公平账本中对齐供应商、信使和酋长发现机会并建立网络",
+      "weaknesses": "当新机会挑战保守本能时,在太多项目上分散能量",
+      "romance": "追求重视稳定奉献的伴侣",
+      "wealth": "管理缓冲季节性冲击的储备",
+      "advice": "从你接待的旅行者那里吸收新想法;在你跳跃前定义风险限制"
+    },
+    "visualCueZh": "商队天平,沙漠天际线,讲故事的火",
+    "hooksZh": [
+      "调整你的财务蓝图",
+      "在你的团队中建立信任框架"
+    ],
+    "balanceNoteZh": "土建立稳定账本;金衡量每笔交易。"
+  },
+  {
+    "id": "persona020",
+    "title": "Swahili Coral Mason",
+    "era": "1400 CE",
+    "region": "East Africa",
+    "culture": "Swahili Coast",
+    "role": "Artisan",
+    "mbtiAffinity": [
+      "INTJ",
+      "ISTP",
+      "ENTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "innovator",
+      "patient",
+      "collaborative",
+      "practical",
+      "refined"
+    ],
+    "storyTemplate": "You designed coral homes resilient to monsoon spray, crafted coral homes that braved monsoon spray when blending aesthetics with maritime durability.",
+    "evaluation": {
+      "strengths": "Crafting durable objects with artistic flair when blending aesthetics with maritime durability",
+      "weaknesses": "Losing momentum in pursuit of perfection if intolerance for sloppy work sparks conflict",
+      "romance": "Values partners who admire functional beauty",
+      "wealth": "Wins commissions from traders and elders",
+      "advice": "Pause to appreciate the skylines you create; tell the story behind your craft to broaden impact"
+    },
+    "visualCue": "coral arches, dhow silhouettes, ocean breeze",
+    "rarity": 3,
+    "hooks": [
+      "Assess your spatial design instincts",
+      "Coordinate diverse teams gracefully"
+    ],
+    "balanceNote": "Water inspires seafaring elegance; Earth ensures stability.",
+    "titleZh": "斯瓦希里珊瑚石匠",
+    "eraZh": "公元1400年",
+    "regionZh": "东非",
+    "cultureZh": "斯瓦希里海岸",
+    "roleZh": "工匠",
+    "traitsZh": [
+      "创新者",
+      "耐心",
+      "协作",
+      "实用",
+      "精致"
+    ],
+    "storyTemplateZh": "你设计抵抗季风喷雾的珊瑚房屋,在融合美学与海洋耐久性时,制作勇敢季风喷雾的珊瑚房屋。",
+    "evaluationZh": {
+      "strengths": "在融合美学与海洋耐久性时用艺术天赋制作耐用物品",
+      "weaknesses": "如果对马虎工作的不容忍引发冲突,在追求完美中失去动力",
+      "romance": "重视欣赏功能美的伴侣",
+      "wealth": "从贸易商和长老那里赢得委托",
+      "advice": "暂停欣赏你创造的天际线;讲述你工艺背后的故事以扩大影响"
+    },
+    "visualCueZh": "珊瑚拱门,单桅帆船剪影,海风",
+    "hooksZh": [
+      "评估你的空间设计本能",
+      "优雅地协调不同团队"
+    ],
+    "balanceNoteZh": "水激发航海优雅;土确保稳定。"
+  },
+  {
+    "id": "persona021",
+    "title": "Upper Nile Shield Captain",
+    "era": "200 BCE",
+    "region": "North Africa",
+    "culture": "Nubian Lands",
+    "role": "Warrior",
+    "mbtiAffinity": [
+      "ESTJ",
+      "ISTJ",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "unyielding",
+      "protective",
+      "tactical",
+      "stoic",
+      "vigilant"
+    ],
+    "storyTemplate": "You guarded royal mines along the upper Nile, kept caravan corridors safe from raiders by reading terrain and reallocating troops quickly.",
+    "evaluation": {
+      "strengths": "Leading under pressure and executing bold tactics by reading terrain and reallocating troops quickly",
+      "weaknesses": "Charging forward before listening when rigid timing clashes with allies",
+      "romance": "Loves steadfast partners who defend shared ground",
+      "wealth": "Holds titles over guarded trade stations",
+      "advice": "Let confidants witness your softer core; schedule time to stand down with trusted allies"
+    },
+    "visualCue": "dune fortress, bronze shields, sunset sands",
+    "rarity": 2,
+    "hooks": [
+      "Bolster your strategic defence",
+      "Invite feedback before issuing orders"
+    ],
+    "balanceNote": "Metal guards precious stores; Earth supplies endurance.",
+    "titleZh": "上尼罗河盾牌队长",
+    "eraZh": "公元前200年",
+    "regionZh": "北非",
+    "cultureZh": "努比亚地区",
+    "roleZh": "战士",
+    "traitsZh": [
+      "不屈不挠",
+      "保护性强",
+      "战术高手",
+      "坚忍",
+      "警觉"
+    ],
+    "storyTemplateZh": "你守卫着上尼罗河沿岸的皇家矿山,保护商队走廊免受掠夺者侵扰,通过解读地形并迅速重新部署军队。",
+    "evaluationZh": {
+      "strengths": "在压力下领导并执行大胆战术,通过解读地形并迅速重新部署军队",
+      "weaknesses": "在倾听他人之前冲锋,当严格的时间安排与盟友发生冲突时",
+      "romance": "喜爱坚定的伴侣,共同守护领地",
+      "wealth": "拥有受守护贸易站的头衔",
+      "advice": "让知己见证你柔软的内心;安排时间与值得信赖的盟友一起放松"
+    },
+    "visualCueZh": "沙丘堡垒,青铜盾牌,落日沙漠",
+    "hooksZh": [
+      "强化你的战略防御",
+      "在发布命令前邀请反馈"
+    ],
+    "balanceNoteZh": "金守护珍贵宝藏;土提供持久耐力。"
+  },
+  {
+    "id": "persona022",
+    "title": "Andean Rope-Bridge Engineer",
+    "era": "1450 CE",
+    "region": "Americas",
+    "culture": "Andean Highlands",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "INTJ",
+      "ISTP",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "inventive",
+      "resilient",
+      "team minded",
+      "precise",
+      "visionary"
+    ],
+    "storyTemplate": "You spun rope bridges between mountain valleys, tied communities through sky-high braided crossings when translating nature's cues into practical paths.",
+    "evaluation": {
+      "strengths": "Reading subtle cues in weather and crew morale when translating nature's cues into practical paths",
+      "weaknesses": "Growing impatient with hesitation if impatience rises with slow builders",
+      "romance": "Dreams with partners willing to co-create homes",
+      "wealth": "Receives tributes from villages his bridges empower",
+      "advice": "Document your methods for future apprentices; build shore teams to share the load"
+    },
+    "visualCue": "woven bridge, cliffs, condor sky",
+    "rarity": 2,
+    "hooks": [
+      "Energise your project execution",
+      "Mentor others with your frameworks"
+    ],
+    "balanceNote": "Wood weaves ingenuity; Earth anchors mountain routes.",
+    "titleZh": "安第斯绳桥工程师",
+    "eraZh": "公元1450年",
+    "regionZh": "美洲",
+    "cultureZh": "安第斯高地",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "创新",
+      "坚韧",
+      "团队意识",
+      "精确",
+      "有远见"
+    ],
+    "storyTemplateZh": "你在山谷之间纺绳桥,在将自然线索转化为实用路径时,通过天空编织的横渡连接社区。",
+    "evaluationZh": {
+      "strengths": "在将自然线索转化为实用路径时解读天气和船员士气的微妙线索",
+      "weaknesses": "如果对缓慢建筑者的不耐烦上升,对犹豫变得不耐烦",
+      "romance": "与愿意共同创造家园的伴侣一起梦想",
+      "wealth": "从他的桥梁赋权的村庄获得贡品",
+      "advice": "为未来学徒记录你的方法;建立岸上团队分担负担"
+    },
+    "visualCueZh": "编织桥,悬崖,秃鹰天空",
+    "hooksZh": [
+      "激发你的项目执行力",
+      "用你的框架指导他人"
+    ],
+    "balanceNoteZh": "木编织独创性;土锚定山路。"
+  },
+  {
+    "id": "persona023",
+    "title": "Rainforest Herbal Mentor",
+    "era": "1600 CE",
+    "region": "Americas",
+    "culture": "Rainforest Circles",
+    "role": "Healer",
+    "mbtiAffinity": [
+      "INFP",
+      "INFJ",
+      "ISFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "intuitive",
+      "gentle",
+      "storytelling",
+      "patient",
+      "observant"
+    ],
+    "storyTemplate": "You prepared vine remedies under emerald canopies, brewed vine elixirs under emerald canopies while guiding seekers through shadow work.",
+    "evaluation": {
+      "strengths": "Soothing others and diagnosing subtle symptoms while guiding seekers through shadow work",
+      "weaknesses": "Absorbing emotions until overwhelmed when others' pain lingers like humidity",
+      "romance": "Cherishes companions who respect quiet rituals",
+      "wealth": "Thrives through communal reciprocity",
+      "advice": "Craft personal cleansing rites after sessions; schedule restoration before exhaustion hits"
+    },
+    "visualCue": "jungle clearing, medicine bowl, emerald river",
+    "rarity": 4,
+    "hooks": [
+      "Activate your deep listening",
+      "Design an emotional detox routine"
+    ],
+    "balanceNote": "Wood nurtures healing; Water releases emotion.",
+    "titleZh": "雨林草药导师",
+    "eraZh": "公元1600年",
+    "regionZh": "美洲",
+    "cultureZh": "雨林圈",
+    "roleZh": "治疗师",
+    "traitsZh": [
+      "直觉",
+      "温柔",
+      "讲故事",
+      "耐心",
+      "观察"
+    ],
+    "storyTemplateZh": "你在翠绿树冠下准备藤蔓疗法,在引导寻求者通过阴影工作时,在翠绿树冠下酿造藤蔓灵药。",
+    "evaluationZh": {
+      "strengths": "在引导寻求者通过阴影工作时安抚他人并诊断细微症状",
+      "weaknesses": "当他人的痛苦像湿度一样挥之不去时,吸收情绪直至不堪重负",
+      "romance": "珍视尊重安静仪式的同伴",
+      "wealth": "通过社区互惠茁壮成长",
+      "advice": "在会话后制定个人净化仪式;在疲劳来袭前安排恢复"
+    },
+    "visualCueZh": "丛林空地,药碗,翠绿河流",
+    "hooksZh": [
+      "激活你的深度倾听",
+      "设计情绪排毒例程"
+    ],
+    "balanceNoteZh": "木培育治疗;水释放情感。"
+  },
+  {
+    "id": "persona024",
+    "title": "Iroquois Longhouse Orator",
+    "era": "1700 CE",
+    "region": "Americas",
+    "culture": "Iroquois Confederacy",
+    "role": "Administrator",
+    "mbtiAffinity": [
+      "ENTP",
+      "ENFJ",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "eloquent",
+      "strategic",
+      "community driven",
+      "mediator",
+      "visionary"
+    ],
+    "storyTemplate": "You spoke for clans inside the council longhouse, mediated clan concerns under cedar beams by shaping consensus through layered narratives.",
+    "evaluation": {
+      "strengths": "Coordinating systems and directing resources by shaping consensus through layered narratives",
+      "weaknesses": "Pushing teams without emotional check-ins when civic demands eclipse personal needs",
+      "romance": "Seeks partners who stand beside her in council",
+      "wealth": "Measures prosperity through trust and shared resources",
+      "advice": "Protect private time to renew your voice; invite feedback before decisions harden"
+    },
+    "visualCue": "wampum belt, council fire, pine forest",
+    "rarity": 3,
+    "hooks": [
+      "Strengthen your facilitation muscle",
+      "Balance public service with private care"
+    ],
+    "balanceNote": "Metal organises deliberation; Fire powers inspiring speech.",
+    "titleZh": "易洛魁长屋演说家",
+    "eraZh": "公元1700年",
+    "regionZh": "美洲",
+    "cultureZh": "易洛魁联盟",
+    "roleZh": "行政官",
+    "traitsZh": [
+      "雄辩",
+      "战略",
+      "社区驱动",
+      "调解员",
+      "有远见"
+    ],
+    "storyTemplateZh": "你在议会长屋内为宗族发言,通过分层叙事塑造共识,在雪松横梁下调解宗族关切。",
+    "evaluationZh": {
+      "strengths": "通过分层叙事塑造共识协调系统并指挥资源",
+      "weaknesses": "当公民需求遮蔽个人需求时,推动团队而不进行情感检查",
+      "romance": "寻求在议会中与她并肩而立的伴侣",
+      "wealth": "通过信任和共享资源衡量繁荣",
+      "advice": "保护私人时间以更新你的声音;在决策固化前邀请反馈"
+    },
+    "visualCueZh": "贝壳串珠带,议会火,松林",
+    "hooksZh": [
+      "加强你的促进力量",
+      "平衡公共服务与私人照顾"
+    ],
+    "balanceNoteZh": "金组织审议;火推动鼓舞人心的演讲。"
+  },
+  {
+    "id": "persona025",
+    "title": "Polynesian Star Helmswoman",
+    "era": "1500 CE",
+    "region": "Pacific Islands",
+    "culture": "Polynesian Voyagers",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ENTJ",
+      "INTJ",
+      "ENFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "explorer",
+      "attentive",
+      "disciplined",
+      "empathetic leader",
+      "resilient"
+    ],
+    "storyTemplate": "You steered double canoes by star lines and ocean rhythm, steered double canoes across moonlit swells by reading starlines and swell songs.",
+    "evaluation": {
+      "strengths": "Reading subtle cues in weather and crew morale by reading starlines and swell songs",
+      "weaknesses": "Growing impatient with hesitation when solitude at sea weighs heavy",
+      "romance": "Cherishes companions willing to wait on shore",
+      "wealth": "Returns with prized fauna and alliance gifts",
+      "advice": "Anchor your emotions between voyages; build shore teams to share the load"
+    },
+    "visualCue": "outrigger wake, star compass, island chain",
+    "rarity": 4,
+    "hooks": [
+      "Calibrate your internal compass",
+      "Practice caring for yourself mid-journey"
+    ],
+    "balanceNote": "Water hears the sea; Wood seeks new horizons.",
+    "titleZh": "波利尼西亚星舵手",
+    "eraZh": "公元1500年",
+    "regionZh": "太平洋岛屿",
+    "cultureZh": "波利尼西亚航海者",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "探险家",
+      "专注",
+      "有纪律",
+      "同理心领导者",
+      "坚韧"
+    ],
+    "storyTemplateZh": "你通过星线和海洋节奏驾驶双体独木舟,通过解读星线和海浪之歌,在月光海浪上驾驶双体独木舟。",
+    "evaluationZh": {
+      "strengths": "通过解读星线和海浪之歌解读天气和船员士气的微妙线索",
+      "weaknesses": "当海上的孤独沉重时,对犹豫变得不耐烦",
+      "romance": "珍视愿意在岸上等待的同伴",
+      "wealth": "带着珍贵动物群和联盟礼物返回",
+      "advice": "在航行之间锚定你的情感;建立岸上团队分担负担"
+    },
+    "visualCueZh": "舷外支架尾迹,星罗盘,岛链",
+    "hooksZh": [
+      "校准你的内部罗盘",
+      "在旅途中练习照顾自己"
+    ],
+    "balanceNoteZh": "水听海洋;木寻找新视野。"
+  },
+  {
+    "id": "persona026",
+    "title": "Arctic Sled Master",
+    "era": "1800 CE",
+    "region": "Arctic Circle",
+    "culture": "Polar Communities",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ISTP",
+      "ESTP",
+      "ISTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "resourceful",
+      "observant",
+      "resilient",
+      "independent",
+      "patient"
+    ],
+    "storyTemplate": "You kept sled teams alive across frozen rivers, reading ice patterns and aurora signals while guiding communities through winter's darkest months.",
+    "evaluation": {
+      "strengths": "Reading subtle environmental cues and keeping teams safe through extreme conditions",
+      "weaknesses": "Growing isolated when self-reliance becomes stubbornness",
+      "romance": "Bonds with those who respect the wilderness",
+      "wealth": "Builds reputation through survival expertise",
+      "advice": "Share your knowledge before the journey ends; build shore teams to share the load"
+    },
+    "visualCue": "sled team, aurora, winter lodge",
+    "rarity": 4,
+    "hooks": [
+      "Test your survival instincts",
+      "Learn when to ask for help"
+    ],
+    "balanceNote": "Water senses shifting ice; Metal keeps focus sharp.",
+    "titleZh": "北极雪橇大师",
+    "eraZh": "公元1800年",
+    "regionZh": "北极圈",
+    "cultureZh": "极地社区",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "足智多谋",
+      "观察",
+      "坚韧",
+      "独立",
+      "耐心"
+    ],
+    "storyTemplateZh": "你让雪橇队在冰冻河流上存活,在引导社区度过冬季最黑暗的月份时,解读冰模式和极光信号。",
+    "evaluationZh": {
+      "strengths": "解读微妙的环境线索并在极端条件下保持团队安全",
+      "weaknesses": "当自力更生变成固执时变得孤立",
+      "romance": "与尊重荒野的人建立联系",
+      "wealth": "通过生存专业知识建立声誉",
+      "advice": "在旅程结束前分享你的知识;建立岸上团队分担负担"
+    },
+    "visualCueZh": "雪橇队,极光,冬季小屋",
+    "hooksZh": [
+      "测试你的生存本能",
+      "学习何时寻求帮助"
+    ],
+    "balanceNoteZh": "水感知移动的冰;金保持焦点敏锐。"
+  },
+  {
+    "id": "persona027",
+    "title": "Sahara Star-Road Poet",
+    "era": "1400 CE",
+    "region": "Sahara",
+    "culture": "Tuareg Trail",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "INFP",
+      "ENFP",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "poetic",
+      "spiritual guide",
+      "wanderer",
+      "storyteller",
+      "perceptive"
+    ],
+    "storyTemplate": "You sang star-road verses guiding caravans by night, weaving oral maps that turned dunes into sacred pathways under infinite skies.",
+    "evaluation": {
+      "strengths": "Inspiring others through artistry and spiritual connection to the cosmos",
+      "weaknesses": "Losing yourself in dreams when practical action is needed",
+      "romance": "Falls for souls who dance with mystery",
+      "wealth": "Travels light on honor and hospitality",
+      "advice": "Ground your visions in daily rituals; anchor your visions with grounding rituals"
+    },
+    "visualCue": "starfield dunes, blue veil, camel caravan",
+    "rarity": 4,
+    "hooks": [
+      "Find your poetic voice",
+      "Balance mysticism with presence"
+    ],
+    "balanceNote": "Fire fuels poetry; Water carries emotional flow.",
+    "titleZh": "撒哈拉星路诗人",
+    "eraZh": "公元1400年",
+    "regionZh": "撒哈拉",
+    "cultureZh": "图阿雷格之路",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "诗意",
+      "精神向导",
+      "流浪者",
+      "讲故事者",
+      "感知"
+    ],
+    "storyTemplateZh": "你在夜晚吟唱星路诗句引导商队,编织将沙丘转化为无限天空下神圣路径的口头地图。",
+    "evaluationZh": {
+      "strengths": "通过艺术和与宇宙的精神联系激励他人",
+      "weaknesses": "当需要实际行动时迷失在梦中",
+      "romance": "爱上与神秘共舞的灵魂",
+      "wealth": "以荣誉和款待轻装旅行",
+      "advice": "在日常仪式中扎根你的愿景;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "星空沙丘,蓝面纱,骆驼商队",
+    "hooksZh": [
+      "找到你的诗意声音",
+      "平衡神秘主义与存在"
+    ],
+    "balanceNoteZh": "火推动诗歌;水承载情感流动。"
+  },
+  {
+    "id": "persona028",
+    "title": "Scholastic Abbey Illuminator",
+    "era": "1200 CE",
+    "region": "Europe",
+    "culture": "Scholastic Abbeys",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "ISTJ",
+      "INFJ",
+      "INTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "meticulous",
+      "devoted",
+      "artistic",
+      "disciplined",
+      "patient"
+    ],
+    "storyTemplate": "You copied illuminated manuscripts through candlelit nights, preserving ancient wisdom with gold leaf and steady hands that bridged generations.",
+    "evaluation": {
+      "strengths": "Preserving knowledge with precision and transforming texts into art",
+      "weaknesses": "Becoming rigid when perfectionism delays completion",
+      "romance": "Connects with those who value sacred focus",
+      "wealth": "Supported by monastic community and noble patrons",
+      "advice": "Let imperfection teach as much as mastery; turn your theories into daily experiments"
+    },
+    "visualCue": "scribe desk, vellum scrolls, stained glass",
+    "rarity": 3,
+    "hooks": [
+      "Honor your devotional practice",
+      "Balance detail with deadlines"
+    ],
+    "balanceNote": "Metal guards accuracy; Earth instils steady discipline.",
+    "titleZh": "经院修道院彩饰师",
+    "eraZh": "公元1200年",
+    "regionZh": "欧洲",
+    "cultureZh": "经院修道院",
+    "roleZh": "学者",
+    "traitsZh": [
+      "一丝不苟",
+      "虔诚",
+      "艺术",
+      "有纪律",
+      "耐心"
+    ],
+    "storyTemplateZh": "你通过烛光之夜抄写彩饰手稿,用金箔和稳定的手保存古代智慧,架起代际之桥。",
+    "evaluationZh": {
+      "strengths": "以精确保存知识并将文本转化为艺术",
+      "weaknesses": "当完美主义延迟完成时变得僵化",
+      "romance": "与重视神圣专注的人建立联系",
+      "wealth": "得到修道院社区和贵族赞助人的支持",
+      "advice": "让不完美像掌握一样教导;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "抄写员桌,羊皮纸卷轴,彩色玻璃",
+    "hooksZh": [
+      "尊重你的奉献实践",
+      "平衡细节与截止日期"
+    ],
+    "balanceNoteZh": "金守护准确性;土灌输稳定纪律。"
+  },
+  {
+    "id": "persona029",
+    "title": "Guild Salon Curator",
+    "era": "1550 CE",
+    "region": "Europe",
+    "culture": "Craft Guilds",
+    "role": "Artist",
+    "mbtiAffinity": [
+      "ENFJ",
+      "ESFJ",
+      "ENFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "curator",
+      "networker",
+      "aesthetic visionary",
+      "socially skilled",
+      "enthusiastic"
+    ],
+    "storyTemplate": "You curated flourishing city salons for artists, bringing masters and apprentices together to spark Renaissance innovation through strategic patronage.",
+    "evaluation": {
+      "strengths": "Connecting creative talents and orchestrating cultural movements",
+      "weaknesses": "Overextending energy across too many projects",
+      "romance": "Attracts brilliant minds who fuel mutual inspiration",
+      "wealth": "Thrives through commissions and cultural influence",
+      "advice": "Protect creative restoration time; weave quiet rehearsal time between festivals"
+    },
+    "visualCue": "gallery hall, marble statue, festival banner",
+    "rarity": 3,
+    "hooks": [
+      "Activate your curatorial eye",
+      "Design sustainable creative rhythms"
+    ],
+    "balanceNote": "Fire curates inspiration; Metal organises every exhibit.",
+    "titleZh": "行会沙龙策展人",
+    "eraZh": "公元1550年",
+    "regionZh": "欧洲",
+    "cultureZh": "工艺行会",
+    "roleZh": "艺术家",
+    "traitsZh": [
+      "策展人",
+      "网络人",
+      "审美远见者",
+      "社交技巧",
+      "热情"
+    ],
+    "storyTemplateZh": "你为艺术家策划繁荣的城市沙龙,通过战略赞助将大师和学徒聚集在一起以激发文艺复兴创新。",
+    "evaluationZh": {
+      "strengths": "连接创意人才并策划文化运动",
+      "weaknesses": "在太多项目上过度扩展能量",
+      "romance": "吸引推动相互灵感的杰出头脑",
+      "wealth": "通过委托和文化影响茁壮成长",
+      "advice": "保护创意恢复时间;在节日之间编织安静的排练时间"
+    },
+    "visualCueZh": "画廊厅,大理石雕像,节日旗帜",
+    "hooksZh": [
+      "激活你的策展眼光",
+      "设计可持续的创意节奏"
+    ],
+    "balanceNoteZh": "火策展灵感;金组织每个展览。"
+  },
+  {
+    "id": "persona030",
+    "title": "Cathedral Vault Architect",
+    "era": "1300 CE",
+    "region": "Europe",
+    "culture": "Cathedral Builders",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "INTJ",
+      "ENTJ",
+      "INTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "visionary engineer",
+      "bold",
+      "mathematical",
+      "ambitious",
+      "innovative"
+    ],
+    "storyTemplate": "You pushed gothic vaults higher toward the clouds, calculating stone stresses that defied gravity and lifted spirits through sacred geometry.",
+    "evaluation": {
+      "strengths": "Translating divine vision into structural reality through fearless innovation",
+      "weaknesses": "Alienating collaborators with uncompromising standards",
+      "romance": "Bonds with those who share grand ambitions",
+      "wealth": "Gains immortal legacy through monumental works",
+      "advice": "Honor the masons who build your dreams; build shore teams to share the load"
+    },
+    "visualCue": "flying buttress, stained glass, design parchment",
+    "rarity": 2,
+    "hooks": [
+      "Map your architectural thinking",
+      "Balance vision with collaboration"
+    ],
+    "balanceNote": "Metal delivers structural rigour; Wood sparks daring designs.",
+    "titleZh": "大教堂穹顶建筑师",
+    "eraZh": "公元1300年",
+    "regionZh": "欧洲",
+    "cultureZh": "大教堂建造者",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "远见工程师",
+      "大胆",
+      "数学",
+      "雄心勃勃",
+      "创新"
+    ],
+    "storyTemplateZh": "你将哥特式穹顶推向云端,计算挑战重力的石头应力,通过神圣几何提升精神。",
+    "evaluationZh": {
+      "strengths": "通过无畏创新将神圣愿景转化为结构现实",
+      "weaknesses": "以不妥协的标准疏远合作者",
+      "romance": "与分享宏伟抱负的人建立联系",
+      "wealth": "通过不朽的遗产获得不朽遗产",
+      "advice": "尊重建造你梦想的石匠;建立岸上团队分担负担"
+    },
+    "visualCueZh": "飞扶壁,彩色玻璃,设计羊皮纸",
+    "hooksZh": [
+      "绘制你的建筑思维",
+      "平衡愿景与协作"
+    ],
+    "balanceNoteZh": "金提供结构严谨;木激发大胆设计。"
+  },
+  {
+    "id": "persona031",
+    "title": "Viking Current Cartographer",
+    "era": "950 CE",
+    "region": "Northern Seas",
+    "culture": "Viking Age",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ENTP",
+      "ISTP",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "adventurous",
+      "analytical",
+      "fearless",
+      "observant",
+      "pragmatic"
+    ],
+    "storyTemplate": "You mapped hidden currents of the North Atlantic, reading wave patterns and sky signs that opened new trade routes to distant shores.",
+    "evaluation": {
+      "strengths": "Pioneering uncharted waters through keen observation and calculated risk",
+      "weaknesses": "Prioritizing discovery over crew emotional needs",
+      "romance": "Cherishes companions who crave adventure",
+      "wealth": "Earns through exploration shares and trade monopolies",
+      "advice": "Bring your crew into navigation decisions; build shore teams to share the load"
+    },
+    "visualCue": "longship prow, star disk, icy horizon",
+    "rarity": 3,
+    "hooks": [
+      "Chart your next expedition",
+      "Practice inclusive leadership"
+    ],
+    "balanceNote": "Water studies tides; Metal keeps navigation precise.",
+    "titleZh": "维京洋流制图师",
+    "eraZh": "公元950年",
+    "regionZh": "北海",
+    "cultureZh": "维京时代",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "冒险",
+      "分析",
+      "无畏",
+      "观察",
+      "务实"
+    ],
+    "storyTemplateZh": "你绘制北大西洋的隐藏洋流,解读波浪模式和天空迹象,开辟通往遥远海岸的新贸易路线。",
+    "evaluationZh": {
+      "strengths": "通过敏锐观察和计算风险开拓未知水域",
+      "weaknesses": "优先考虑发现而非船员情感需求",
+      "romance": "珍视渴望冒险的同伴",
+      "wealth": "通过探险份额和贸易垄断赚钱",
+      "advice": "将你的船员带入导航决策;建立岸上团队分担负担"
+    },
+    "visualCueZh": "长船船头,星盘,冰冷地平线",
+    "hooksZh": [
+      "绘制你的下一次探险",
+      "练习包容性领导"
+    ],
+    "balanceNoteZh": "水研究潮汐;金保持导航精确。"
+  },
+  {
+    "id": "persona032",
+    "title": "Steppe Drum Shaman",
+    "era": "1200 CE",
+    "region": "Northern Steppe",
+    "culture": "Nomad Confederations",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "ENFP",
+      "INFJ",
+      "ESFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "spiritual warrior",
+      "rhythmic",
+      "charismatic",
+      "protective",
+      "intuitive"
+    ],
+    "storyTemplate": "You channeled drum rituals to steady mounted warriors, bridging ancestors and cavalry through hypnotic beats that unified the horde.",
+    "evaluation": {
+      "strengths": "Channeling collective spirit to inspire courage in battle",
+      "weaknesses": "Burning out from carrying communal emotional weight",
+      "romance": "Bonds through shared spiritual quests",
+      "wealth": "Honored through offerings and tribal status",
+      "advice": "Replenish your spirit between ceremonies; anchor your visions with grounding rituals"
+    },
+    "visualCue": "steppe drum, horse circle, midnight camp",
+    "rarity": 4,
+    "hooks": [
+      "Activate your ritual leadership",
+      "Design energy recovery practices"
+    ],
+    "balanceNote": "Fire stirs courage; Wood sustains clan spirit.",
+    "titleZh": "草原鼓萨满",
+    "eraZh": "公元1200年",
+    "regionZh": "北方草原",
+    "cultureZh": "游牧联盟",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "精神战士",
+      "节奏",
+      "魅力",
+      "保护",
+      "直觉"
+    ],
+    "storyTemplateZh": "你引导鼓仪式以稳定骑兵战士,通过催眠节拍连接祖先和骑兵,统一部落。",
+    "evaluationZh": {
+      "strengths": "引导集体精神以在战斗中激发勇气",
+      "weaknesses": "承载公共情感重量而精疲力竭",
+      "romance": "通过共同的精神探索建立联系",
+      "wealth": "通过供品和部落地位受到尊敬",
+      "advice": "在仪式之间补充你的精神;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "草原鼓,马圈,午夜营地",
+    "hooksZh": [
+      "激活你的仪式领导力",
+      "设计能量恢复实践"
+    ],
+    "balanceNoteZh": "火激发勇气;木维持氏族精神。"
+  },
+  {
+    "id": "persona033",
+    "title": "Taiga Tracker",
+    "era": "1700 CE",
+    "region": "Northern Forest",
+    "culture": "Reindeer Clans",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ISTP",
+      "ISFP",
+      "ISTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "wilderness expert",
+      "silent",
+      "patient",
+      "self-reliant",
+      "perceptive"
+    ],
+    "storyTemplate": "You guided hunts through snowbound taiga trails, reading animal tracks and weather shifts that kept your clan fed through brutal winters.",
+    "evaluation": {
+      "strengths": "Surviving through intimate knowledge of the land and acute observation",
+      "weaknesses": "Struggling to communicate needs or delegate",
+      "romance": "Opens slowly to those who respect silence",
+      "wealth": "Measures wealth in community survival",
+      "advice": "Share your tracking wisdom with the next generation; build shore teams to share the load"
+    },
+    "visualCue": "sled line, aurora veil, pine valley",
+    "rarity": 4,
+    "hooks": [
+      "Sharpen your observational skills",
+      "Practice asking for support"
+    ],
+    "balanceNote": "Water reads the land; Metal keeps senses sharp.",
+    "titleZh": "泰加林追踪者",
+    "eraZh": "公元1700年",
+    "regionZh": "北方森林",
+    "cultureZh": "驯鹿氏族",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "荒野专家",
+      "沉默",
+      "耐心",
+      "自力更生",
+      "感知"
+    ],
+    "storyTemplateZh": "你引导穿越雪封泰加林小径的狩猎,解读动物足迹和天气变化,使你的氏族在残酷的冬季得以饱食。",
+    "evaluationZh": {
+      "strengths": "通过对土地的亲密了解和敏锐观察生存",
+      "weaknesses": "难以沟通需求或委派",
+      "romance": "向尊重沉默的人缓慢开放",
+      "wealth": "以社区生存衡量财富",
+      "advice": "与下一代分享你的追踪智慧;建立岸上团队分担负担"
+    },
+    "visualCueZh": "雪橇线,极光面纱,松树谷",
+    "hooksZh": [
+      "磨练你的观察技能",
+      "练习寻求支持"
+    ],
+    "balanceNoteZh": "水解读土地;金保持感官敏锐。"
+  },
+  {
+    "id": "persona034",
+    "title": "Incan Quipu Administrator",
+    "era": "1480 CE",
+    "region": "Americas",
+    "culture": "Andean Highlands",
+    "role": "Administrator",
+    "mbtiAffinity": [
+      "ISTJ",
+      "ESTJ",
+      "INTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "systematic",
+      "memorial keeper",
+      "organized",
+      "reliable",
+      "analytical"
+    ],
+    "storyTemplate": "You managed imperial records through knotted strings, encoding census data and tribute flows that coordinated a mountain empire.",
+    "evaluation": {
+      "strengths": "Maintaining complex systems through methodical precision",
+      "weaknesses": "Becoming inflexible when innovation challenges tradition",
+      "romance": "Values partners who appreciate order",
+      "wealth": "Holds administrative prestige and stable position",
+      "advice": "Explore new recording methods alongside the old; invite feedback before decisions harden"
+    },
+    "visualCue": "knotted quipu, mountain terraces, stone records",
+    "rarity": 2,
+    "hooks": [
+      "Audit your information systems",
+      "Balance tradition with adaptation"
+    ],
+    "balanceNote": "Earth maintains structure; Metal enforces accuracy.",
+    "titleZh": "印加结绳管理员",
+    "eraZh": "公元1480年",
+    "regionZh": "美洲",
+    "cultureZh": "安第斯高地",
+    "roleZh": "行政官",
+    "traitsZh": [
+      "系统",
+      "记忆保管者",
+      "有组织",
+      "可靠",
+      "分析"
+    ],
+    "storyTemplateZh": "你通过打结的绳子管理帝国记录,编码人口普查数据和贡品流动以协调山地帝国。",
+    "evaluationZh": {
+      "strengths": "通过有条不紊的精确维护复杂系统",
+      "weaknesses": "当创新挑战传统时变得不灵活",
+      "romance": "重视欣赏秩序的伴侣",
+      "wealth": "持有行政声望和稳定地位",
+      "advice": "与旧方法一起探索新记录方法;在决策固化前邀请反馈"
+    },
+    "visualCueZh": "打结结绳,山地梯田,石头记录",
+    "hooksZh": [
+      "审核你的信息系统",
+      "平衡传统与适应"
+    ],
+    "balanceNoteZh": "土维持结构;金强制准确性。"
+  },
+  {
+    "id": "persona035",
+    "title": "Aztec Flower Warrior Poet",
+    "era": "1500 CE",
+    "region": "Americas",
+    "culture": "Mexica Empire",
+    "role": "Warrior",
+    "mbtiAffinity": [
+      "ENFP",
+      "ESFP",
+      "ESTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "artistic warrior",
+      "passionate",
+      "philosophical",
+      "courageous",
+      "expressive"
+    ],
+    "storyTemplate": "You wove battle prowess with poetry, seeking honorable death like a flower falling—brief, beautiful, and eternal in song.",
+    "evaluation": {
+      "strengths": "Combining martial excellence with artistic sensibility",
+      "weaknesses": "Romanticizing danger at the expense of safety",
+      "romance": "Burns intensely with equally passionate souls",
+      "wealth": "Earns glory through captured opponents and poetic fame",
+      "advice": "Find beauty in peaceful moments too; schedule time to stand down with trusted allies"
+    },
+    "visualCue": "obsidian blade, feathered shield, battle song",
+    "rarity": 3,
+    "hooks": [
+      "Integrate your warrior and artist selves",
+      "Practice sustainable courage"
+    ],
+    "balanceNote": "Fire ignites passion; Wood renews creative spirit.",
+    "titleZh": "阿兹特克花战士诗人",
+    "eraZh": "公元1500年",
+    "regionZh": "美洲",
+    "cultureZh": "墨西卡帝国",
+    "roleZh": "战士",
+    "traitsZh": [
+      "艺术战士",
+      "热情",
+      "哲学",
+      "勇敢",
+      "表现力"
+    ],
+    "storyTemplateZh": "你将战斗英勇与诗歌编织在一起,寻求像花朵坠落一样的光荣死亡——短暂、美丽,在歌曲中永恒。",
+    "evaluationZh": {
+      "strengths": "将军事卓越与艺术敏感性结合",
+      "weaknesses": "以牺牲安全为代价美化危险",
+      "romance": "与同样充满激情的灵魂激烈燃烧",
+      "wealth": "通过俘虏对手和诗歌名声赚取荣耀",
+      "advice": "也在和平时刻找到美;安排时间与值得信赖的盟友一起放松"
+    },
+    "visualCueZh": "黑曜石刀片,羽毛盾,战歌",
+    "hooksZh": [
+      "整合你的战士和艺术家自我",
+      "练习可持续勇气"
+    ],
+    "balanceNoteZh": "火点燃激情;木更新创意精神。"
+  },
+  {
+    "id": "persona036",
+    "title": "Maya Astronomical Priest",
+    "era": "800 CE",
+    "region": "Americas",
+    "culture": "Maya City-States",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "INTP",
+      "INTJ",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Metal",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "mathematical",
+      "ritualist",
+      "cosmological thinker",
+      "precise",
+      "mystical"
+    ],
+    "storyTemplate": "You calculated Venus cycles and eclipse predictions, maintaining cosmic order through mathematical perfection carved in stone.",
+    "evaluation": {
+      "strengths": "Bridging mathematics and spirituality to guide civilization",
+      "weaknesses": "Becoming detached from immediate human concerns",
+      "romance": "Connects with minds that appreciate celestial mysteries",
+      "wealth": "Supported by temple hierarchy and noble reverence",
+      "advice": "Bring cosmic wisdom to daily dilemmas; turn your theories into daily experiments"
+    },
+    "visualCue": "stone calendar, observation temple, codex",
+    "rarity": 3,
+    "hooks": [
+      "Apply pattern recognition to current challenges",
+      "Ground abstract knowledge"
+    ],
+    "balanceNote": "Metal structures cosmic law; Water flows with intuition.",
+    "titleZh": "玛雅天文祭司",
+    "eraZh": "公元800年",
+    "regionZh": "美洲",
+    "cultureZh": "玛雅城邦",
+    "roleZh": "学者",
+    "traitsZh": [
+      "数学",
+      "仪式师",
+      "宇宙学思想家",
+      "精确",
+      "神秘"
+    ],
+    "storyTemplateZh": "你计算金星周期和日食预测,通过刻在石头上的数学完美维持宇宙秩序。",
+    "evaluationZh": {
+      "strengths": "架起数学和灵性之桥以指导文明",
+      "weaknesses": "脱离眼前的人类关切",
+      "romance": "与欣赏天体奥秘的心灵连接",
+      "wealth": "得到神庙等级制度和贵族崇敬的支持",
+      "advice": "将宇宙智慧带到日常困境;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "石历,观测神庙,抄本",
+    "hooksZh": [
+      "将模式识别应用于当前挑战",
+      "扎根抽象知识"
+    ],
+    "balanceNoteZh": "金构建宇宙法则;水随直觉流动。"
+  },
+  {
+    "id": "persona037",
+    "title": "Mississippian Mound Builder",
+    "era": "1200 CE",
+    "region": "Americas",
+    "culture": "Mississippian Chiefdoms",
+    "role": "Administrator",
+    "mbtiAffinity": [
+      "ENTJ",
+      "ESTJ",
+      "ENFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "civic planner",
+      "mobilizer",
+      "ambitious",
+      "community focused",
+      "determined"
+    ],
+    "storyTemplate": "You coordinated massive earthwork projects, mobilizing thousands to build ceremonial mounds that proclaimed cosmic alignment and social order.",
+    "evaluation": {
+      "strengths": "Organizing large-scale community efforts toward shared vision",
+      "weaknesses": "Pushing labor demands beyond sustainable limits",
+      "romance": "Partners with those who share civic dedication",
+      "wealth": "Commands resources through political authority",
+      "advice": "Listen to workers' concerns before the next project; invite feedback before decisions harden"
+    },
+    "visualCue": "earthwork plans, ceremonial plaza, construction teams",
+    "rarity": 2,
+    "hooks": [
+      "Channel your project management power",
+      "Practice compassionate leadership"
+    ],
+    "balanceNote": "Earth builds lasting monuments; Fire inspires collective effort.",
+    "titleZh": "密西西比土丘建造者",
+    "eraZh": "公元1200年",
+    "regionZh": "美洲",
+    "cultureZh": "密西西比酋邦",
+    "roleZh": "行政官",
+    "traitsZh": [
+      "公民规划者",
+      "动员者",
+      "雄心勃勃",
+      "社区专注",
+      "坚定"
+    ],
+    "storyTemplateZh": "你协调大规模土方工程项目,动员数千人建造宣告宇宙对齐和社会秩序的仪式土丘。",
+    "evaluationZh": {
+      "strengths": "组织大规模社区努力朝向共同愿景",
+      "weaknesses": "将劳动需求推向超出可持续限度",
+      "romance": "与分享公民奉献的人合作",
+      "wealth": "通过政治权威指挥资源",
+      "advice": "在下一个项目前倾听工人的关切;在决策固化前邀请反馈"
+    },
+    "visualCueZh": "土方计划,仪式广场,施工队",
+    "hooksZh": [
+      "引导你的项目管理力量",
+      "练习富有同情心的领导"
+    ],
+    "balanceNoteZh": "土建立持久纪念碑;火激发集体努力。"
+  },
+  {
+    "id": "persona038",
+    "title": "Amazonian Plant Whisperer",
+    "era": "1550 CE",
+    "region": "Americas",
+    "culture": "Rainforest Circles",
+    "role": "Healer",
+    "mbtiAffinity": [
+      "INFP",
+      "ISFP",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "botanical expert",
+      "shamanic",
+      "gentle",
+      "intuitive",
+      "protective"
+    ],
+    "storyTemplate": "You listened to jungle plants' whispers, cultivating medicine gardens that held ancestral knowledge of healing and transformation.",
+    "evaluation": {
+      "strengths": "Accessing deep botanical wisdom and facilitating spiritual healing",
+      "weaknesses": "Absorbing others' traumas without releasing them",
+      "romance": "Bonds with those who honor the sacred",
+      "wealth": "Thrives through reciprocal exchange",
+      "advice": "Create cleansing rituals for yourself; schedule restoration before exhaustion hits"
+    },
+    "visualCue": "medicine garden, ayahuasca vine, healing ceremony",
+    "rarity": 4,
+    "hooks": [
+      "Develop your healing intuition",
+      "Establish energetic boundaries"
+    ],
+    "balanceNote": "Wood connects to plant spirits; Water flows healing energy.",
+    "titleZh": "亚马逊植物私语者",
+    "eraZh": "公元1550年",
+    "regionZh": "美洲",
+    "cultureZh": "雨林圈",
+    "roleZh": "治疗师",
+    "traitsZh": [
+      "植物专家",
+      "萨满",
+      "温柔",
+      "直觉",
+      "保护"
+    ],
+    "storyTemplateZh": "你倾听丛林植物的私语,培养持有治疗和转化的祖传知识的药用花园。",
+    "evaluationZh": {
+      "strengths": "获取深层植物智慧并促进精神治疗",
+      "weaknesses": "吸收他人的创伤而不释放它们",
+      "romance": "与尊重神圣的人建立联系",
+      "wealth": "通过互惠交换茁壮成长",
+      "advice": "为自己创建净化仪式;在疲劳来袭前安排恢复"
+    },
+    "visualCueZh": "药用花园,死藤水藤,治疗仪式",
+    "hooksZh": [
+      "发展你的治疗直觉",
+      "建立能量边界"
+    ],
+    "balanceNoteZh": "木连接到植物精灵;水流动治疗能量。"
+  },
+  {
+    "id": "persona039",
+    "title": "Polynesian Navigator-Chief",
+    "era": "1400 CE",
+    "region": "Pacific Islands",
+    "culture": "Polynesian Voyagers",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ENTJ",
+      "ENFJ",
+      "ESTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "wayfinder",
+      "leader",
+      "traditional keeper",
+      "courageous",
+      "charismatic"
+    ],
+    "storyTemplate": "You led settlement voyages across thousands of ocean miles, carrying ancestral navigation secrets and the courage to find new islands.",
+    "evaluation": {
+      "strengths": "Combining leadership with traditional navigation wisdom",
+      "weaknesses": "Bearing too much responsibility for crew safety alone",
+      "romance": "Forms deep bonds through shared epic journeys",
+      "wealth": "Gains status through discovery and successful voyages",
+      "advice": "Train co-navigators to share the burden; build shore teams to share the load"
+    },
+    "visualCue": "voyaging canoe, navigation chant, new island",
+    "rarity": 3,
+    "hooks": [
+      "Lead your next expedition",
+      "Develop successor navigators"
+    ],
+    "balanceNote": "Wood seeks new horizons; Fire inspires followers.",
+    "titleZh": "波利尼西亚航海家酋长",
+    "eraZh": "公元1400年",
+    "regionZh": "太平洋岛屿",
+    "cultureZh": "波利尼西亚航海者",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "寻路者",
+      "领导者",
+      "传统守护者",
+      "勇敢",
+      "魅力"
+    ],
+    "storyTemplateZh": "你领导跨越数千海里的定居航行,携带祖传航海秘密和寻找新岛屿的勇气。",
+    "evaluationZh": {
+      "strengths": "将领导力与传统航海智慧结合",
+      "weaknesses": "独自承担船员安全的太多责任",
+      "romance": "通过共同的史诗般旅程形成深刻纽带",
+      "wealth": "通过发现和成功航行获得地位",
+      "advice": "训练共同航海家分担负担;建立岸上团队分担负担"
+    },
+    "visualCueZh": "航行独木舟,航海吟唱,新岛屿",
+    "hooksZh": [
+      "领导你的下一次探险",
+      "发展继任航海家"
+    ],
+    "balanceNoteZh": "木寻找新视野;火激励追随者。"
+  },
+  {
+    "id": "persona040",
+    "title": "Aboriginal Songline Keeper",
+    "era": "Ancient continuous",
+    "region": "Pacific Islands",
+    "culture": "Aboriginal Traditions",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "INFJ",
+      "ENFP",
+      "INFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "cultural memory",
+      "spiritual guide",
+      "storyteller",
+      "connected",
+      "timeless"
+    ],
+    "storyTemplate": "You walked songlines that map creation itself, holding tens of thousands of years of knowledge in song, story, and sacred connection to Country.",
+    "evaluation": {
+      "strengths": "Maintaining deep cultural-spiritual knowledge across generations",
+      "weaknesses": "Struggling when sacred knowledge is disrespected",
+      "romance": "Connects with those who honor deep time",
+      "wealth": "Measures wealth in cultural continuity",
+      "advice": "Find ways to share knowledge with worthy listeners; anchor your visions with grounding rituals"
+    },
+    "visualCue": "ancient songline, sacred site, walking country",
+    "rarity": 4,
+    "hooks": [
+      "Discover your ancestral knowledge",
+      "Honor long-term thinking"
+    ],
+    "balanceNote": "Earth holds ancient memory; Water flows through generations.",
+    "titleZh": "原住民歌线守护者",
+    "eraZh": "古老连续",
+    "regionZh": "太平洋岛屿",
+    "cultureZh": "原住民传统",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "文化记忆",
+      "精神向导",
+      "讲故事者",
+      "连接",
+      "永恒"
+    ],
+    "storyTemplateZh": "你行走绘制创世本身的歌线,在歌曲、故事和与国土的神圣联系中持有数万年的知识。",
+    "evaluationZh": {
+      "strengths": "跨代维护深层文化精神知识",
+      "weaknesses": "当神圣知识被不尊重时挣扎",
+      "romance": "与尊重深层时间的人连接",
+      "wealth": "以文化连续性衡量财富",
+      "advice": "找到与值得倾听者分享知识的方式;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "古老歌线,神圣场所,行走国土",
+    "hooksZh": [
+      "发现你的祖传知识",
+      "尊重长期思考"
+    ],
+    "balanceNoteZh": "土持有古老记忆;水流过世代。"
+  },
+  {
+    "id": "persona041",
+    "title": "Maori Whare Wānanga Teacher",
+    "era": "1600 CE",
+    "region": "Pacific Islands",
+    "culture": "Māori Iwi",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "ENFJ",
+      "INFJ",
+      "ENTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Wood",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "cultural educator",
+      "orator",
+      "genealogist",
+      "strategic",
+      "wise"
+    ],
+    "storyTemplate": "You taught in the house of learning, transmitting whakapapa, karakia, and tribal wisdom that bound past and future together.",
+    "evaluation": {
+      "strengths": "Preserving and transmitting complex cultural knowledge systems",
+      "weaknesses": "Becoming rigid about traditional teaching methods",
+      "romance": "Bonds with those who value cultural depth",
+      "wealth": "Honored through mana and community respect",
+      "advice": "Adapt teaching methods for changing times; turn your theories into daily experiments"
+    },
+    "visualCue": "carved meeting house, whakapapa scroll, teaching circle",
+    "rarity": 3,
+    "hooks": [
+      "Activate your teaching gifts",
+      "Bridge tradition and innovation"
+    ],
+    "balanceNote": "Wood grows knowledge; Earth preserves roots.",
+    "titleZh": "毛利知识之屋教师",
+    "eraZh": "公元1600年",
+    "regionZh": "太平洋岛屿",
+    "cultureZh": "毛利部落",
+    "roleZh": "学者",
+    "traitsZh": [
+      "文化教育者",
+      "演说家",
+      "系谱学家",
+      "战略",
+      "智慧"
+    ],
+    "storyTemplateZh": "你在学习之屋教学,传授将过去和未来联系在一起的家谱、祈祷词和部落智慧。",
+    "evaluationZh": {
+      "strengths": "保存和传递复杂的文化知识系统",
+      "weaknesses": "对传统教学方法变得僵化",
+      "romance": "与重视文化深度的人建立联系",
+      "wealth": "通过威望和社区尊重受到尊敬",
+      "advice": "为变化的时代调整教学方法;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "雕刻会议屋,家谱卷轴,教学圈",
+    "hooksZh": [
+      "激活你的教学天赋",
+      "架起传统与创新之桥"
+    ],
+    "balanceNoteZh": "木增长知识;土保存根源。"
+  },
+  {
+    "id": "persona042",
+    "title": "Byzantine Icon Painter",
+    "era": "1100 CE",
+    "region": "Mediterranean",
+    "culture": "Byzantine Empire",
+    "role": "Artisan",
+    "mbtiAffinity": [
+      "ISFP",
+      "INFP",
+      "ISFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "devotional artist",
+      "meticulous",
+      "spiritual",
+      "contemplative",
+      "perfectionist"
+    ],
+    "storyTemplate": "You painted holy icons with gold leaf and prayer, creating windows to the divine through traditional techniques passed down for centuries.",
+    "evaluation": {
+      "strengths": "Channeling spiritual devotion into sacred art",
+      "weaknesses": "Perfectionism delaying completion or causing burnout",
+      "romance": "Connects through shared spiritual practice",
+      "wealth": "Supported by church commissions and pious donors",
+      "advice": "Remember the divine loves the imperfect too; tell the story behind your craft to broaden impact"
+    },
+    "visualCue": "gold leaf, tempera paints, sacred workshop",
+    "rarity": 3,
+    "hooks": [
+      "Infuse work with sacred intention",
+      "Balance craft with completion"
+    ],
+    "balanceNote": "Fire illuminates the sacred; Metal ensures precision.",
+    "titleZh": "拜占庭圣像画家",
+    "eraZh": "公元1100年",
+    "regionZh": "地中海",
+    "cultureZh": "拜占庭帝国",
+    "roleZh": "工匠",
+    "traitsZh": [
+      "虔诚艺术家",
+      "一丝不苟",
+      "精神",
+      "沉思",
+      "完美主义者"
+    ],
+    "storyTemplateZh": "你用金箔和祈祷绘制神圣圣像,通过传承数世纪的传统技术创造通往神圣的窗口。",
+    "evaluationZh": {
+      "strengths": "将精神虔诚引导为神圣艺术",
+      "weaknesses": "完美主义延迟完成或导致精疲力竭",
+      "romance": "通过共同的精神实践连接",
+      "wealth": "得到教会委托和虔诚捐助者的支持",
+      "advice": "记住神圣也爱不完美;讲述你工艺背后的故事以扩大影响"
+    },
+    "visualCueZh": "金箔,蛋彩颜料,神圣工坊",
+    "hooksZh": [
+      "用神圣意图注入工作",
+      "平衡工艺与完成"
+    ],
+    "balanceNoteZh": "火照亮神圣;金确保精确。"
+  },
+  {
+    "id": "persona043",
+    "title": "Silk Road Translator",
+    "era": "900 CE",
+    "region": "West Asia",
+    "culture": "Silk Road Oases",
+    "role": "Merchant",
+    "mbtiAffinity": [
+      "ENFP",
+      "ENTP",
+      "ESFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "multilingual",
+      "cultural bridge",
+      "adaptable",
+      "curious",
+      "diplomatic"
+    ],
+    "storyTemplate": "You spoke seven languages across desert oases, bridging Chinese, Persian, and Greek merchants to facilitate the world's greatest trade network.",
+    "evaluation": {
+      "strengths": "Connecting diverse cultures and facilitating mutual understanding",
+      "weaknesses": "Losing sense of home while serving as perpetual bridge",
+      "romance": "Falls for fellow cosmopolitan spirits",
+      "wealth": "Earns through translation fees and trade facilitation",
+      "advice": "Create an anchor identity beyond language; define risk limits before you leap"
+    },
+    "visualCue": "caravanserai, multiple scripts, translation scroll",
+    "rarity": 3,
+    "hooks": [
+      "Activate your bridge-building skills",
+      "Cultivate cultural fluency"
+    ],
+    "balanceNote": "Water adapts to every culture; Wood seeks new connections.",
+    "titleZh": "丝绸之路翻译家",
+    "eraZh": "公元900年",
+    "regionZh": "西亚",
+    "cultureZh": "丝绸之路绿洲",
+    "roleZh": "商人",
+    "traitsZh": [
+      "多语言",
+      "文化桥梁",
+      "适应力",
+      "好奇",
+      "外交"
+    ],
+    "storyTemplateZh": "你在沙漠绿洲讲七种语言,架起中国、波斯和希腊商人之桥以促进世界上最伟大的贸易网络。",
+    "evaluationZh": {
+      "strengths": "连接不同文化并促进相互理解",
+      "weaknesses": "在充当永恒桥梁时失去家的感觉",
+      "romance": "爱上同样的世界主义精神",
+      "wealth": "通过翻译费和贸易促进赚钱",
+      "advice": "创建超越语言的锚定身份;在你跳跃前定义风险限制"
+    },
+    "visualCueZh": "商队旅馆,多种文字,翻译卷轴",
+    "hooksZh": [
+      "激活你的架桥技能",
+      "培养文化流利度"
+    ],
+    "balanceNoteZh": "水适应每种文化;木寻找新连接。"
+  },
+  {
+    "id": "persona044",
+    "title": "Mongol Horse Archer",
+    "era": "1240 CE",
+    "region": "Northern Steppe",
+    "culture": "Mongol Empire",
+    "role": "Warrior",
+    "mbtiAffinity": [
+      "ESTP",
+      "ISTP",
+      "ESTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "mobile warrior",
+      "disciplined",
+      "tactical",
+      "enduring",
+      "pragmatic"
+    ],
+    "storyTemplate": "You mastered mounted archery across endless steppes, executing coordinated attacks that built the largest land empire in history.",
+    "evaluation": {
+      "strengths": "Combining individual skill with disciplined unit tactics",
+      "weaknesses": "Struggling with settled life after constant campaigning",
+      "romance": "Bonds through shared military brotherhood",
+      "wealth": "Gains through conquest spoils and military rank",
+      "advice": "Find purpose beyond the next battle; schedule time to stand down with trusted allies"
+    },
+    "visualCue": "composite bow, steppe pony, campaign banner",
+    "rarity": 2,
+    "hooks": [
+      "Channel warrior discipline",
+      "Practice peaceful transitions"
+    ],
+    "balanceNote": "Fire fuels attack speed; Metal ensures precision.",
+    "titleZh": "蒙古马弓手",
+    "eraZh": "公元1240年",
+    "regionZh": "北方草原",
+    "cultureZh": "蒙古帝国",
+    "roleZh": "战士",
+    "traitsZh": [
+      "机动战士",
+      "有纪律",
+      "战术",
+      "持久",
+      "务实"
+    ],
+    "storyTemplateZh": "你在无尽草原上掌握骑射,执行建立历史上最大陆地帝国的协调攻击。",
+    "evaluationZh": {
+      "strengths": "将个人技能与有纪律的单位战术结合",
+      "weaknesses": "在不断征战后难以适应定居生活",
+      "romance": "通过共同的军事兄弟情谊建立联系",
+      "wealth": "通过征服战利品和军事等级获得",
+      "advice": "找到下一场战斗之外的目标;安排时间与值得信赖的盟友一起放松"
+    },
+    "visualCueZh": "复合弓,草原小马,战役旗帜",
+    "hooksZh": [
+      "引导战士纪律",
+      "练习和平过渡"
+    ],
+    "balanceNoteZh": "火推动攻击速度;金确保精确。"
+  },
+  {
+    "id": "persona045",
+    "title": "Venetian Glass Master",
+    "era": "1500 CE",
+    "region": "Mediterranean",
+    "culture": "Venetian Republic",
+    "role": "Artisan",
+    "mbtiAffinity": [
+      "ISTP",
+      "INTJ",
+      "ISFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "secretive craftsman",
+      "innovative",
+      "precise",
+      "passionate",
+      "protective"
+    ],
+    "storyTemplate": "You guarded glassmaking secrets on Murano island, creating crystalline masterpieces that dazzled European courts through jealously-guarded techniques.",
+    "evaluation": {
+      "strengths": "Mastering complex craft through innovation and precision",
+      "weaknesses": "Isolating yourself to protect trade secrets",
+      "romance": "Opens to those who respect craft boundaries",
+      "wealth": "Commands premium prices for exclusive artistry",
+      "advice": "Share some knowledge to grow the craft; tell the story behind your craft to broaden impact"
+    },
+    "visualCue": "glass furnace, cristallo goblet, secret formula",
+    "rarity": 3,
+    "hooks": [
+      "Refine your signature craft",
+      "Balance secrecy with legacy"
+    ],
+    "balanceNote": "Fire transforms glass; Earth provides stability.",
+    "titleZh": "威尼斯玻璃大师",
+    "eraZh": "公元1500年",
+    "regionZh": "地中海",
+    "cultureZh": "威尼斯共和国",
+    "roleZh": "工匠",
+    "traitsZh": [
+      "秘密工匠",
+      "创新",
+      "精确",
+      "热情",
+      "保护"
+    ],
+    "storyTemplateZh": "你在穆拉诺岛守卫玻璃制造秘密,通过嫉妒守护的技术创造使欧洲宫廷眼花缭乱的水晶杰作。",
+    "evaluationZh": {
+      "strengths": "通过创新和精确掌握复杂工艺",
+      "weaknesses": "孤立自己以保护商业秘密",
+      "romance": "向尊重工艺界限的人开放",
+      "wealth": "为独家艺术命令溢价",
+      "advice": "分享一些知识以发展工艺;讲述你工艺背后的故事以扩大影响"
+    },
+    "visualCueZh": "玻璃炉,水晶高脚杯,秘密配方",
+    "hooksZh": [
+      "精炼你的标志性工艺",
+      "平衡保密与遗产"
+    ],
+    "balanceNoteZh": "火转化玻璃;土提供稳定性。"
+  },
+  {
+    "id": "persona046",
+    "title": "Ottoman Janissary Band Leader",
+    "era": "1550 CE",
+    "region": "West Asia",
+    "culture": "Ottoman Empire",
+    "role": "Artist",
+    "mbtiAffinity": [
+      "ESFP",
+      "ENFP",
+      "ESTP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Fire",
+      "supporting": [
+        "Metal"
+      ]
+    },
+    "traits": [
+      "martial musician",
+      "rhythmic",
+      "intimidating",
+      "coordinated",
+      "proud"
+    ],
+    "storyTemplate": "You led the mehter military band, whose thunderous drums and shrill horns announced Ottoman might and coordinated troop movements.",
+    "evaluation": {
+      "strengths": "Combining artistic expression with military function",
+      "weaknesses": "Struggling with peacetime lack of purpose",
+      "romance": "Attracts those drawn to power and spectacle",
+      "wealth": "Enjoys military status and campaign rewards",
+      "advice": "Develop artistic expression beyond intimidation; weave quiet rehearsal time between festivals"
+    },
+    "visualCue": "zurna horn, davul drum, military regalia",
+    "rarity": 3,
+    "hooks": [
+      "Channel performance power",
+      "Find peaceful creative outlets"
+    ],
+    "balanceNote": "Fire commands attention; Metal enforces rhythm.",
+    "titleZh": "奥斯曼禁卫军乐队领袖",
+    "eraZh": "公元1550年",
+    "regionZh": "西亚",
+    "cultureZh": "奥斯曼帝国",
+    "roleZh": "艺术家",
+    "traitsZh": [
+      "军事音乐家",
+      "节奏",
+      "威吓",
+      "协调",
+      "自豪"
+    ],
+    "storyTemplateZh": "你领导军乐队,其雷鸣般的鼓声和尖锐的号角宣告奥斯曼威力并协调部队行动。",
+    "evaluationZh": {
+      "strengths": "将艺术表达与军事功能结合",
+      "weaknesses": "在和平时期难以找到目标",
+      "romance": "吸引被权力和壮观吸引的人",
+      "wealth": "享受军事地位和战役奖励",
+      "advice": "发展超越威吓的艺术表达;在节日之间编织安静的排练时间"
+    },
+    "visualCueZh": "苏尔纳号角,达乌尔鼓,军事服饰",
+    "hooksZh": [
+      "引导表演力量",
+      "找到和平的创意出口"
+    ],
+    "balanceNoteZh": "火指挥注意力;金强制节奏。"
+  },
+  {
+    "id": "persona047",
+    "title": "Berber Caravan Navigator",
+    "era": "1300 CE",
+    "region": "North Africa",
+    "culture": "Berber Kingdoms",
+    "role": "Navigator",
+    "mbtiAffinity": [
+      "ISTJ",
+      "ISTP",
+      "INTJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Water"
+      ]
+    },
+    "traits": [
+      "desert expert",
+      "resilient",
+      "observant",
+      "independent",
+      "traditional"
+    ],
+    "storyTemplate": "You guided trans-Saharan caravans by star and sand, reading dune patterns to find precious water and avoid deadly storms.",
+    "evaluation": {
+      "strengths": "Surviving through deep environmental knowledge and steady nerves",
+      "weaknesses": "Resisting new navigation technologies or methods",
+      "romance": "Bonds with those who appreciate quiet competence",
+      "wealth": "Earns through safe convoy delivery",
+      "advice": "Share your navigation wisdom with apprentices; build shore teams to share the load"
+    },
+    "visualCue": "camel caravan, desert stars, water cache",
+    "rarity": 3,
+    "hooks": [
+      "Trust your navigational instincts",
+      "Balance tradition with innovation"
+    ],
+    "balanceNote": "Earth provides endurance; Water senses hidden resources.",
+    "titleZh": "柏柏尔商队航海家",
+    "eraZh": "公元1300年",
+    "regionZh": "北非",
+    "cultureZh": "柏柏尔王国",
+    "roleZh": "航海家",
+    "traitsZh": [
+      "沙漠专家",
+      "坚韧",
+      "观察",
+      "独立",
+      "传统"
+    ],
+    "storyTemplateZh": "你通过星星和沙子引导跨撒哈拉商队,解读沙丘模式以找到珍贵的水并避免致命风暴。",
+    "evaluationZh": {
+      "strengths": "通过深层环境知识和稳定神经生存",
+      "weaknesses": "抵制新的导航技术或方法",
+      "romance": "与欣赏安静能力的人建立联系",
+      "wealth": "通过安全车队交付赚钱",
+      "advice": "与学徒分享你的导航智慧;建立岸上团队分担负担"
+    },
+    "visualCueZh": "骆驼商队,沙漠星空,水窖",
+    "hooksZh": [
+      "信任你的导航本能",
+      "平衡传统与创新"
+    ],
+    "balanceNoteZh": "土提供耐力;水感知隐藏资源。"
+  },
+  {
+    "id": "persona048",
+    "title": "Khmer Temple Dancer",
+    "era": "1200 CE",
+    "region": "Southeast Asia",
+    "culture": "Khmer Empire",
+    "role": "Artist",
+    "mbtiAffinity": [
+      "ISFP",
+      "ESFP",
+      "INFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Fire"
+      ]
+    },
+    "traits": [
+      "graceful",
+      "devoted performer",
+      "disciplined",
+      "spiritual",
+      "expressive"
+    ],
+    "storyTemplate": "You danced the Apsara in temple ceremonies, embodying celestial beings through movements perfected over lifetimes of training.",
+    "evaluation": {
+      "strengths": "Channeling divine beauty through disciplined artistic practice",
+      "weaknesses": "Struggling with aging body or performance pressure",
+      "romance": "Connects through shared artistic or spiritual devotion",
+      "wealth": "Supported by temple and royal patronage",
+      "advice": "Remember dance lives in teaching too; weave quiet rehearsal time between festivals"
+    },
+    "visualCue": "hand mudras, silk costume, temple gallery",
+    "rarity": 4,
+    "hooks": [
+      "Embody sacred movement",
+      "Plan for artistic evolution"
+    ],
+    "balanceNote": "Water flows through movement; Fire brings expressive energy.",
+    "titleZh": "高棉寺庙舞者",
+    "eraZh": "公元1200年",
+    "regionZh": "东南亚",
+    "cultureZh": "高棉帝国",
+    "roleZh": "艺术家",
+    "traitsZh": [
+      "优雅",
+      "虔诚表演者",
+      "有纪律",
+      "精神",
+      "表现力"
+    ],
+    "storyTemplateZh": "你在寺庙仪式中跳阿帕萨拉舞,通过数辈子训练完善的动作体现天体生灵。",
+    "evaluationZh": {
+      "strengths": "通过有纪律的艺术实践引导神圣美",
+      "weaknesses": "与老化的身体或表演压力斗争",
+      "romance": "通过共同的艺术或精神虔诚连接",
+      "wealth": "得到寺庙和皇家赞助的支持",
+      "advice": "记住舞蹈也存在于教学中;在节日之间编织安静的排练时间"
+    },
+    "visualCueZh": "手印,丝绸服装,寺庙画廊",
+    "hooksZh": [
+      "体现神圣运动",
+      "规划艺术进化"
+    ],
+    "balanceNoteZh": "水流过运动;火带来表现力能量。"
+  },
+  {
+    "id": "persona049",
+    "title": "Edo Period Tea Master",
+    "era": "1700 CE",
+    "region": "East Asia",
+    "culture": "Tokugawa Japan",
+    "role": "Mystic",
+    "mbtiAffinity": [
+      "INFJ",
+      "ISFJ",
+      "INFP"
+    ],
+    "fiveElementProfile": {
+      "primary": "Water",
+      "supporting": [
+        "Earth"
+      ]
+    },
+    "traits": [
+      "contemplative",
+      "aesthetic philosopher",
+      "precise",
+      "hospitable",
+      "mindful"
+    ],
+    "storyTemplate": "You perfected the way of tea, transforming simple gestures into meditation that revealed beauty in impermanence and harmony in restraint.",
+    "evaluation": {
+      "strengths": "Creating sacred space through refined simplicity",
+      "weaknesses": "Becoming overly particular about ritual correctness",
+      "romance": "Bonds through shared appreciation of subtlety",
+      "wealth": "Supported through students and cultural prestige",
+      "advice": "Remember the heart matters more than perfect form; anchor your visions with grounding rituals"
+    },
+    "visualCue": "tea bowl, bamboo whisk, tranquil tearoom",
+    "rarity": 4,
+    "hooks": [
+      "Cultivate mindful presence",
+      "Balance form with spontaneity"
+    ],
+    "balanceNote": "Water embodies flowing simplicity; Earth grounds ritual.",
+    "titleZh": "江户时代茶道大师",
+    "eraZh": "公元1700年",
+    "regionZh": "东亚",
+    "cultureZh": "德川日本",
+    "roleZh": "神秘主义者",
+    "traitsZh": [
+      "沉思",
+      "美学哲学家",
+      "精确",
+      "好客",
+      "正念"
+    ],
+    "storyTemplateZh": "你完善茶道,将简单手势转化为揭示无常之美和克制中和谐的冥想。",
+    "evaluationZh": {
+      "strengths": "通过精炼简约创造神圣空间",
+      "weaknesses": "对仪式正确性变得过于挑剔",
+      "romance": "通过共同欣赏细微差别建立联系",
+      "wealth": "通过学生和文化声望得到支持",
+      "advice": "记住心比完美形式更重要;用扎根的仪式锚定你的愿景"
+    },
+    "visualCueZh": "茶碗,竹茶筅,宁静茶室",
+    "hooksZh": [
+      "培养正念存在",
+      "平衡形式与自发性"
+    ],
+    "balanceNoteZh": "水体现流动简约;土扎根仪式。"
+  },
+  {
+    "id": "persona050",
+    "title": "Ethiopian Highlands Scribe",
+    "era": "1400 CE",
+    "region": "East Africa",
+    "culture": "Ethiopian Kingdom",
+    "role": "Scholar",
+    "mbtiAffinity": [
+      "INTJ",
+      "ISTJ",
+      "INFJ"
+    ],
+    "fiveElementProfile": {
+      "primary": "Earth",
+      "supporting": [
+        "Wood"
+      ]
+    },
+    "traits": [
+      "linguistic scholar",
+      "religious",
+      "preservationist",
+      "meticulous",
+      "devoted"
+    ],
+    "storyTemplate": "You copied Ge'ez manuscripts in mountain monasteries, preserving ancient Christian texts and African wisdom traditions for future generations.",
+    "evaluation": {
+      "strengths": "Safeguarding cultural-religious heritage through dedicated scholarship",
+      "weaknesses": "Becoming isolated in monastic devotion",
+      "romance": "Connects with those who share spiritual depth",
+      "wealth": "Sustained through monastic community",
+      "advice": "Bring ancient wisdom to contemporary questions; turn your theories into daily experiments"
+    },
+    "visualCue": "parchment codex, Ge'ez script, mountain monastery",
+    "rarity": 3,
+    "hooks": [
+      "Honor your scholarly calling",
+      "Bridge past and present wisdom"
+    ],
+    "balanceNote": "Earth preserves heritage; Wood grows understanding.",
+    "titleZh": "埃塞俄比亚高地抄写员",
+    "eraZh": "公元1400年",
+    "regionZh": "东非",
+    "cultureZh": "埃塞俄比亚王国",
+    "roleZh": "学者",
+    "traitsZh": [
+      "语言学者",
+      "宗教",
+      "保存主义者",
+      "一丝不苟",
+      "虔诚"
+    ],
+    "storyTemplateZh": "你在山地修道院抄写吉兹手稿,为后代保存古代基督教文本和非洲智慧传统。",
+    "evaluationZh": {
+      "strengths": "通过专注学术保护文化宗教遗产",
+      "weaknesses": "在修道院虔诚中变得孤立",
+      "romance": "与分享精神深度的人连接",
+      "wealth": "通过修道院社区维持",
+      "advice": "将古代智慧带到当代问题;将你的理论转化为日常实验"
+    },
+    "visualCueZh": "羊皮纸抄本,吉兹文字,山地修道院",
+    "hooksZh": [
+      "尊重你的学术召唤",
+      "架起过去和现在智慧之桥"
+    ],
+    "balanceNoteZh": "土保存遗产;木增长理解。"
+  }
+]

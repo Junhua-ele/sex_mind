@@ -1,0 +1,260 @@
+[
+  {
+    "id": "q1",
+    "text": "在陌生环境中，你更倾向于？",
+    "textEn": "In unfamiliar settings, you tend to:",
+    "type": "single",
+    "category": "social",
+    "options": [
+      {
+        "value": "observe",
+        "label": "先观察再行动",
+        "labelEn": "Observe before acting",
+        "tags": ["cautious", "analytical", "Water", "Metal"]
+      },
+      {
+        "value": "engage",
+        "label": "主动探索交流",
+        "labelEn": "Actively explore and engage",
+        "tags": ["bold", "social", "Fire", "Wood"]
+      },
+      {
+        "value": "systematic",
+        "label": "找到规律后行动",
+        "labelEn": "Act after finding patterns",
+        "tags": ["systematic", "planner", "Earth", "Metal"]
+      }
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "面对重大决策时，你最看重什么？",
+    "textEn": "When facing major decisions, what matters most?",
+    "type": "single",
+    "category": "decision-making",
+    "options": [
+      {
+        "value": "logic",
+        "label": "逻辑与数据分析",
+        "labelEn": "Logic and data analysis",
+        "tags": ["analytical", "rational", "Metal", "Earth"]
+      },
+      {
+        "value": "intuition",
+        "label": "直觉与内在感受",
+        "labelEn": "Intuition and inner feeling",
+        "tags": ["intuitive", "emotional", "Water", "Fire"]
+      },
+      {
+        "value": "impact",
+        "label": "对他人的影响",
+        "labelEn": "Impact on others",
+        "tags": ["empathetic", "community", "Wood", "Water"]
+      },
+      {
+        "value": "tradition",
+        "label": "传统与既定规则",
+        "labelEn": "Tradition and established rules",
+        "tags": ["traditional", "structured", "Earth", "Metal"]
+      }
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "你如何看待冲突与竞争？",
+    "textEn": "How do you view conflict and competition?",
+    "type": "single",
+    "category": "conflict",
+    "options": [
+      {
+        "value": "confront",
+        "label": "直接面对和解决",
+        "labelEn": "Confront directly and resolve",
+        "tags": ["assertive", "warrior", "Fire", "Metal"]
+      },
+      {
+        "value": "mediate",
+        "label": "寻求和解与平衡",
+        "labelEn": "Seek mediation and balance",
+        "tags": ["diplomatic", "harmonious", "Water", "Earth"]
+      },
+      {
+        "value": "avoid",
+        "label": "尽量避免和绕开",
+        "labelEn": "Avoid when possible",
+        "tags": ["peaceful", "adaptive", "Water", "Wood"]
+      },
+      {
+        "value": "strategic",
+        "label": "战略性地应对",
+        "labelEn": "Respond strategically",
+        "tags": ["tactical", "planner", "Metal", "Wood"]
+      }
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "在团队中，你通常扮演什么角色？",
+    "textEn": "In a team, what role do you usually play?",
+    "type": "single",
+    "category": "teamwork",
+    "options": [
+      {
+        "value": "leader",
+        "label": "领导者，制定方向",
+        "labelEn": "Leader, setting direction",
+        "tags": ["leader", "visionary", "Fire", "Wood"]
+      },
+      {
+        "value": "coordinator",
+        "label": "协调者，确保顺畅",
+        "labelEn": "Coordinator, ensuring smooth operation",
+        "tags": ["organiser", "systematic", "Earth", "Metal"]
+      },
+      {
+        "value": "creator",
+        "label": "创意者，提供新想法",
+        "labelEn": "Creator, providing new ideas",
+        "tags": ["creative", "innovative", "Wood", "Fire"]
+      },
+      {
+        "value": "supporter",
+        "label": "支持者，帮助他人",
+        "labelEn": "Supporter, helping others",
+        "tags": ["supportive", "empathetic", "Water", "Earth"]
+      }
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "对于知识与技能，你更喜欢？",
+    "textEn": "Regarding knowledge and skills, you prefer:",
+    "type": "single",
+    "category": "learning",
+    "options": [
+      {
+        "value": "depth",
+        "label": "深入精通某一领域",
+        "labelEn": "Deep mastery of one field",
+        "tags": ["specialist", "focused", "Metal", "Earth"]
+      },
+      {
+        "value": "breadth",
+        "label": "广泛涉猎多个领域",
+        "labelEn": "Broad exposure to multiple fields",
+        "tags": ["generalist", "curious", "Wood", "Fire"]
+      },
+      {
+        "value": "practical",
+        "label": "实用性强的技能",
+        "labelEn": "Highly practical skills",
+        "tags": ["pragmatic", "hands-on", "Earth", "Metal"]
+      },
+      {
+        "value": "abstract",
+        "label": "抽象理论与哲学",
+        "labelEn": "Abstract theory and philosophy",
+        "tags": ["philosophical", "theoretical", "Water", "Wood"]
+      }
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "你理想的生活节奏是？",
+    "textEn": "Your ideal life pace is:",
+    "type": "single",
+    "category": "lifestyle",
+    "options": [
+      {
+        "value": "dynamic",
+        "label": "充满变化与冒险",
+        "labelEn": "Full of change and adventure",
+        "tags": ["adventurous", "dynamic", "Fire", "Wood"]
+      },
+      {
+        "value": "stable",
+        "label": "稳定有序的规律",
+        "labelEn": "Stable and orderly routine",
+        "tags": ["steady", "structured", "Earth", "Metal"]
+      },
+      {
+        "value": "flexible",
+        "label": "灵活适应的弹性",
+        "labelEn": "Flexible and adaptable",
+        "tags": ["adaptive", "flowing", "Water", "Wood"]
+      },
+      {
+        "value": "intense",
+        "label": "高强度的快节奏",
+        "labelEn": "Intense and fast-paced",
+        "tags": ["intense", "driven", "Fire", "Metal"]
+      }
+    ]
+  },
+  {
+    "id": "q7",
+    "text": "你如何表达创造力？",
+    "textEn": "How do you express creativity?",
+    "type": "single",
+    "category": "creativity",
+    "options": [
+      {
+        "value": "artistic",
+        "label": "艺术作品（绘画、音乐等）",
+        "labelEn": "Artistic works (painting, music, etc.)",
+        "tags": ["artistic", "expressive", "Fire", "Water"]
+      },
+      {
+        "value": "practical",
+        "label": "实物创造（手工、建筑等）",
+        "labelEn": "Practical creation (crafts, building, etc.)",
+        "tags": ["craftsman", "builder", "Earth", "Metal"]
+      },
+      {
+        "value": "intellectual",
+        "label": "思想与理论创新",
+        "labelEn": "Intellectual and theoretical innovation",
+        "tags": ["innovative thinker", "theoretical", "Wood", "Metal"]
+      },
+      {
+        "value": "social",
+        "label": "社交与组织创新",
+        "labelEn": "Social and organizational innovation",
+        "tags": ["social innovator", "connector", "Wood", "Water"]
+      }
+    ]
+  },
+  {
+    "id": "q8",
+    "text": "面对未知的未来，你的态度是？",
+    "textEn": "Facing an unknown future, your attitude is:",
+    "type": "single",
+    "category": "future",
+    "options": [
+      {
+        "value": "excited",
+        "label": "兴奋期待，主动探索",
+        "labelEn": "Excited and eager to explore",
+        "tags": ["optimistic", "explorer", "Fire", "Wood"]
+      },
+      {
+        "value": "prepared",
+        "label": "谨慎规划，充分准备",
+        "labelEn": "Carefully plan and prepare",
+        "tags": ["prepared", "cautious", "Earth", "Metal"]
+      },
+      {
+        "value": "adaptable",
+        "label": "随遇而安，灵活应对",
+        "labelEn": "Go with the flow, adapt flexibly",
+        "tags": ["adaptable", "flexible", "Water", "Wood"]
+      },
+      {
+        "value": "philosophical",
+        "label": "哲学思考，顺其自然",
+        "labelEn": "Philosophical reflection, let it be",
+        "tags": ["philosophical", "accepting", "Water", "Earth"]
+      }
+    ]
+  }
+]

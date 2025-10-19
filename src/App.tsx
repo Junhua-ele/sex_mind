@@ -13,6 +13,8 @@ import Results from "./pages/results";
 import Guide from "./pages/guide";
 import Science from "./pages/science";
 import History from "./pages/history";
+import Rebirth from "./pages/rebirth";
+import RebirthResult from "./pages/rebirth-result";
 import NotFound from "./pages/404";
 import BackToTopButton from "@/components/BackToTopButton"; 
 
@@ -43,6 +45,8 @@ const App: React.FC = () => (
             <Route path="/guide" element={<ProtectedRoute><Guide /></ProtectedRoute>} />
             <Route path="/science" element={<ProtectedRoute><Science /></ProtectedRoute>} />
             <Route path="/history" element={<ProtectedRoute><History /></ProtectedRoute>} />
+            <Route path="/rebirth" element={<ProtectedRoute><Rebirth /></ProtectedRoute>} />
+            <Route path="/rebirth/result" element={<ProtectedRoute><RebirthResult /></ProtectedRoute>} />
             <Route path="*" element={<NotFound />} />
           </Routes>
           {/* ✅ 固定在右上角的返回顶部按钮 */}

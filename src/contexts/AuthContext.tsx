@@ -2,16 +2,19 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 
 interface AuthContextType {
   isAuthenticated: boolean;
-  login: (password: string) => boolean;
+  userType: 'sri' | 'rebirth' | null; // Track which feature user should access
+  login: (password: string) => Promise<boolean>;
   logout: () => void;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
-// Secure password - hashed for security
-// Original password: SRI2025@SecureAccess
-// SHA-256 hash of the password
-const CORRECT_PASSWORD_HASH = 'a1a3e7feb1e93cafb40f532b4152380d877c946b55ebc167e02cf9a5b418a8e2';
+// Secure passwords - hashed for security
+// Original password for SRI: SRI2025@SecureAccess
+const SRI_PASSWORD_HASH = 'a1a3e7feb1e93cafb40f532b4152380d877c946b55ebc167e02cf9a5b418a8e2';
+
+// Original password for Rebirth: Rebirth2025@Access
+const REBIRTH_PASSWORD_HASH = '855d6e1410635e28291ca182ee38fae4f689f3e6a5deea69a672cb736fa87f76';
 
 // Simple SHA-256 hash function (for browser)
 async function hashPassword(password: string): Promise<string> {
@@ -25,13 +28,16 @@ async function hashPassword(password: string): Promise<string> {
 
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
+  const [userType, setUserType] = useState<'sri' | 'rebirth' | null>(null);
   const [isLoading, setIsLoading] = useState<boolean>(true);
 
   // Check if user is already authenticated on mount
   useEffect(() => {
-    const authStatus = sessionStorage.getItem('sri_authenticated');
-    if (authStatus === 'true') {
+    const authStatus = sessionStorage.getItem('authenticated');
+    const savedUserType = sessionStorage.getItem('user_type') as 'sri' | 'rebirth' | null;
+    if (authStatus === 'true' && savedUserType) {
       setIsAuthenticated(true);
+      setUserType(savedUserType);
     }
     setIsLoading(false);
   }, []);
@@ -40,11 +46,24 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     try {
       const hashedInput = await hashPassword(password);
 
-      if (hashedInput === CORRECT_PASSWORD_HASH) {
+      // Check against SRI password
+      if (hashedInput === SRI_PASSWORD_HASH) {
         setIsAuthenticated(true);
-        sessionStorage.setItem('sri_authenticated', 'true');
+        setUserType('sri');
+        sessionStorage.setItem('authenticated', 'true');
+        sessionStorage.setItem('user_type', 'sri');
         return true;
       }
+
+      // Check against Rebirth password
+      if (hashedInput === REBIRTH_PASSWORD_HASH) {
+        setIsAuthenticated(true);
+        setUserType('rebirth');
+        sessionStorage.setItem('authenticated', 'true');
+        sessionStorage.setItem('user_type', 'rebirth');
+        return true;
+      }
+
       return false;
     } catch (error) {
       console.error('Login error:', error);
@@ -54,7 +73,9 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   const logout = () => {
     setIsAuthenticated(false);
-    sessionStorage.removeItem('sri_authenticated');
+    setUserType(null);
+    sessionStorage.removeItem('authenticated');
+    sessionStorage.removeItem('user_type');
   };
 
   if (isLoading) {
@@ -69,7 +90,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   }
 
   return (
-    <AuthContext.Provider value={{ isAuthenticated, login, logout }}>
+    <AuthContext.Provider value={{ isAuthenticated, userType, login, logout }}>
       {children}
     </AuthContext.Provider>
   );
