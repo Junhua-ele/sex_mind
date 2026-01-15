@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>抽签工具</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="cat.jpg" alt="Logo">
+        </div>
+        <h1>抽签工具</h1>
+        
+        <div class="settings">
+            <div class="setting-item">
+                <label for="min-range">范围起点：</label>
+                <input type="number" id="min-range" min="1" max="50" value="1">
+            </div>
+            
+            <div class="setting-item">
+                <label for="max-range">范围终点：</label>
+                <input type="number" id="max-range" min="1" max="50" value="50">
+            </div>
+            
+            <div class="setting-item">
+                <label for="draw-count">抽签数量：</label>
+                <input type="number" id="draw-count" min="1" max="10" value="1">
+            </div>
+        </div>
+        
+        <button id="start-btn">开始抽签</button>
+        
+        <div class="result">
+            <h2>抽签结果</h2>
+            <div id="result-numbers"></div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
